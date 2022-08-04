@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Mỗi ngày tôi chọn một niềm vui\
+Chọn những bông hoa và những nụ cười\
+Tôi nhặt gió trời mời em giữ lấy\
+Để mắt em cười, tựa gió bay.\
+--- Trịnh Công Sơn ---\
