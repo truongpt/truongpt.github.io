@@ -4,7 +4,7 @@ description: "Con oanh học nói trên cành mỉa mai." # This will show up in
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
-email: "truongptk30a3@mail.com"
+email: "truongptk30a3@gmail.com"
 github_username: "truongpt"
 linkedin_username: "truongpt"
 #twitter_username: "twitteruser"
@@ -20,7 +20,7 @@ linkedin_username: "truongpt"
 #########################################################################################
 theme: "minima"
 
-rss: rss
+#rss: rss
 
 kramdown:
   syntax_highlighter_opts:

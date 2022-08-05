@@ -1,0 +1,16 @@
+## Code refactoring
+
+Từ 1 comment status của thằng bạn trên facebook, nhớ lại về nguyên lý thứ hai của nhiệt động lực học. À, mà sao lại nguyên lý thứ hai nhỉ, có nguyên lý thứ nhất không nhỉ?
+
+Học từ hồi cấp 3, bắt đầu từ câu chuyện không thể chế tạo động cơ vĩnh cửu loại 2, tức là động cơ dùng 2 nguồn nhiệt để có thể biến **nhiệt** hoàn toàn thành **công**. Tuy không vi phạm định luật bảo toàn năng lượng, nhưng vẫn không làm được.
+
+Hiệu suất lý tưởng để chuyển nhiệt biến thành công chỉ đạt được = (T2- T1)/T2; T1,T2 là nhiệt độ nguồn nóng & lạnh tính theo nhiệt giai Kelvin.
+Tại sao lại thế? qui luật gì đã chi phối cái đó. Trong quá trình giải quyết cái đó thì ông cụ [Rudolf Clausius](https://vi.wikipedia.org/wiki/Rudolf_Clausius) đã mang đến một khái niệm gọi là [Entropy](https://vi.wikipedia.org/wiki/Entropy) (kí hiệu là S), bản chất là đặc trưng cho tính hỗn loạn của hệ thống. Chốt lại là qui luật trên sẽ tương đương với việc phát biểu: Entropy của hệ cô lập không thể giảm. Tức là tính hỗn loạn của hệ thống cô lập sẽ tăng hoặc ít nhất là giữ nguyên.
+Câu chuyện tưởng đến đây là hết, thì hóa ra mới bắt đầu. Trong lý thuyết thông tin, Shannon định nghĩa lượng thông tin của hệ thống thông qua Entropy, xem ở [đây](https://en.wikipedia.org/wiki/Entropy_(information_theory)). Hệ thống càng hỗn loạn thì càng chứa nhiều thông tin, hệ thống càng trật tự thì lượng thông tin chứa trong đó càng ít, nghe cũng có lý đấy chứ nhỉ!. Vậy là từ cái máy nhiệt lại liên hệ mật thiết với chủ đề nóng, vấn đề thông tin.
+
+Cái nghề làm phần mềm chắc chắn cũng không ngoài cuộc, vì nguyên lý phổ quát mà, bao trùm từ vũ trụ bao la bát ngát ( xem Lược sử thời gian – Stephen Hawking, thì biết) đến trà đá vỉa hè (cục đá đang tan dần trong cốc trà, chính là biểu hiện của việc Entropy đang tăng). Vậy phần mềm có xu hướng càng ngày càng lộn xộn, và thực tế đúng như thế. Lúc bắt đầu dự án, nếu là dự án tử tế thì basic design, detail design chuẩn mực thật. Nhưng theo tháng năm, ta thêm tí mắm, lâu lâu cho chút muối vào, thi thoảng thêm tí tính năng để phần mềm lúc đầu đặc tính giống Chó nhưng lại muốn bắt đc cả Chuột, và dần dần nó trở thành 1 đống lộn xộn. Và đâu đó cũng có [Sofware entropy](https://en.wikipedia.org/wiki/Software_entropy) thật.
+Nhưng chú ý, điều đó chỉ đúng với hệ cô lập, và để phần mềm không trở nên thành 1 đống hổ lốn theo tháng năm thì phải tìm cánh phá vỡ tính “cô lập” của nó, một trong những cách đó là REFACTORING, quyển sách cần đọc, nó nằm ở [đây](https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672/ref=mt_hardcover?_encoding=UTF8&me=).  Mặc dù  không khuyến khích, nhưng trước khi mua sách tử tế thì có thể xem tạm ở [đây](https://www.csie.ntu.edu.tw/~r95004/Refactoring_improving_the_design_of_existing_code.pdf)
+
+Tóm lại từ nguyên lý thứ hai của nhiệt động lực học, ta rút ra rằng để software không bị xuống cấp, ta phải học cách refactoring?
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" />
