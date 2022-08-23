@@ -1,4 +1,4 @@
-## Chủ tịch óc chó.
+## Chủ tịch óc chó
 
 Gặp hắn lần đầu lúc hè 2009, lúc đợi ở sảnh tòa nhà FPT Cầu giấy để chờ ông anh đón, nó cũng vào cùng 1 dự án với mình, thấy mình, hỏi ngay.  
 "Cậu bạn Thái Bá Sơn phải không?"  

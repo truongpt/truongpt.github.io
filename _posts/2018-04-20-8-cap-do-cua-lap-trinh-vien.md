@@ -1,15 +1,15 @@
 ## 8 cấp độ của nghề lập trình viên
 
-Bài viết được copy từ vinacode để đọc hàng ngày và nhắc nhở bản thân.\
+Bài viết được copy từ vinacode để đọc hàng ngày và nhắc nhở bản thân.
 
-Link: https://vinacode.net/2014/09/26/dang-cap-cua-lap-trinh-vien \
+Link: https://vinacode.net/2014/09/26/dang-cap-cua-lap-trinh-vien 
 
 Bài viết được dịch từ blog [Coding Horror](https://blog.codinghorror.com/the-eight-levels-of-programmers/)
 
 Bạn đã từng bao giờ nhận được một câu hỏi phỏng vấn tuyển dụng kinh điển là, “Bạn nhìn thấy bản thân mình ở đâu sau 5 năm nữa?” Khi được hỏi câu này, tôi luôn luôn nghĩ đến một video của ban nhạc Twisted Sister từ năm 1984.
 Tôi muốn bạn nói với tôi — không, tốt hơn là đứng dậy và nói với cả lớp —
 
-![ban-muon-lam-gi-trong-doi](./2018/04/ban-muon-lam-gi-trong-doi.jpg)
+![ban-muon-lam-gi-trong-doi](/assets/2018/04/ban-muon-lam-gi-trong-doi.jpg)
 
 **bạn muốn làm gì với cuộc đời mình?**
 
@@ -36,7 +36,7 @@ Bạn nổi tiếng trong cộng đồng lập trình viên. Nhưng việc trở
 Bạn có một sự nghiệp thành công với tư cách là một nhà phát triển phần mềm. Các kỹ năng của bạn luôn đáp ứng được yêu cầu và bạn chẳng bao giờ phải chờ lâu hoặc khó nhọc để kiếm một công việc tuyệt vời nào đó. Các đồng nghiệp của bạn rất nể phục bạn. Mỗi công ty mà bạn làm việc cho họ thì luôn tăng trưởng và thịnh vượng hơn theo một cách nào đó bởi sự hiện diện của bạn.
 Nhưng mà bạn sẽ đi đâu từ vị trí này?
 
-5. Lập trình viên trung bình
+### 5. Lập trình viên trung bình
 Tại cấp độ này thì bạn là một lập trình viên đủ tốt để nhận ra rằng mình không là một lập trình viên vĩ đại. Và bạn có thể sẽ chẳng bao giờ đạt được như vậy.
 Tài năng thường có rất ít việc phải làm cùng với thành công. Bạn có thể rất thành công nếu bạn có một công việc kinh doanh và các kỹ năng mềm khác. Nếu bạn là một lập trình viên trung bình nhưng biết cách kiếm sống với nó thì bạn đã là một tài năng rồi, chứ không nhất thiết phải giỏi ở khả năng lập trình.
 Đừng đánh giá thấp giá trị bản thân mình. Đôi khi bạn chưa nhận ra là mình cũng có nhiều khả năng đặc biệt. Không có điều gì sai trái với việc thiếu hụt tài năng cả. Hãy can đảm lên. Hãy nhận ra cái mà bạn giỏi nhất và theo đuổi nó. Thật năng nổ vào.
