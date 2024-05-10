@@ -1,7 +1,6 @@
 # Marathon
 
 ## Half Marathon.
-- The best result: 01:35:52
 
 | Date     | Place     | Event                                                                                     | Pace   | Finish time |
 | ---      | ---       | ---                                                                                       | ---    | ---         |
@@ -9,11 +8,8 @@
 
 
 ## Full Marathon.
-- The best result: 04:26:56
 
 | Date     | Place     | Event                                                                                      | Pace   | Finish time |
 | ---      | ---       | ---                                                                                        | ---    | ---         |
 | 11/2023  | Hà Nội    | [Vnexpress Midnight](https://truongpt.github.io/2023/11/29/the-first-Marathon.html)        | 6:19.2 | 04:26:45    |
 
-## Reference.
-- https://chay365.com/chay-marathon-trong-3h-mot-giao-an-tap-luyen-vua-du
