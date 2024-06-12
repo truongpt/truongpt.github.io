@@ -11,5 +11,5 @@
 
 | Date     | Place     | Event                                                                                      | Pace   | Finish time |
 | ---      | ---       | ---                                                                                        | ---    | ---         |
-| 06/2024  | Nghệ An   | Hành trình về làng Sen                                                                     | 6:12.0 | 04:22:36    |
+| 06/2024  | Nghệ An   | [Hành trình về làng Sen](https://truongpt.github.io/2024/06/12/cualo-marathon.html)        | 6:12.0 | 04:22:36    |
 | 11/2023  | Hà Nội    | [Vnexpress Midnight](https://truongpt.github.io/2023/11/29/the-first-Marathon.html)        | 6:19.2 | 04:26:45    |
