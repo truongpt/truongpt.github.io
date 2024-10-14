@@ -5,7 +5,7 @@
 |Index | Date     | Place     | Event                                                                                     | Pace   | Finish time |
 |---   | ---      | ---       | ---                                                                                       | ---    | ---         |
 | 1    | 04/2024  | Ninh Bình | [Dấu Ấn Di Sản Marathon](https://truongpt.github.io/2024/05/03/may-tourist-marathon.html) | 4:32.4 | 01:35:52 (*)|
-| 2    | 10/2024  | Hà Nội    | VPBank International Marathon-2024 (Run as pacer HM sub2)                                 | 5:37.2 | 01:58:35    |
+| 2    | 10/2024  | Hà Nội    | VPIM-2024 (run as pacer HM sub2)                                                          | 5:37.2 | 01:58:35    |
 
 
 ## Full Marathon.
