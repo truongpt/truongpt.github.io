@@ -6,6 +6,7 @@
 |---   | ---      | ---       | ---                                                                                       | ---    | ---         |
 | 1    | 04/2024  | Ninh Bình | [Dấu Ấn Di Sản Marathon](https://truongpt.github.io/2024/05/03/may-tourist-marathon.html) | 4:32.4 | 01:35:52 (*)|
 | 2    | 10/2024  | Hà Nội    | [Vpbank Marathon](https://vpbankmarathon.com/vi/) (LongRun)                               | 5:37.2 | 01:58:35    |
+| 3    | 04/2025  | Hà Nội    | [Tayho Half Marathon](https://tayhohalfmarathon.com/) (LongRun)                           | 5:09   | 01:48:11    |
 
 
 ## Full Marathon.
