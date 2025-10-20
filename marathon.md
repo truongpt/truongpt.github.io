@@ -21,3 +21,9 @@
 | 5    | 12/2024  | Hà Nội    | [Viettel Marathon](https://viettelmarathon.com) (LR) - [log](https://github.com/truongpt/truongpt.github.io/blob/master/assets/log/fm_viettel_hn_2024.png)                                    | 5:45.0 | 04:02:49    |
 | 6    | 03/2025  | Quảng Trị | [Tien Phong Marathon](https://truongpt.github.io/2025/04/04/tpm2025.html) - [log](https://github.com/truongpt/truongpt.github.io/blob/master/assets/log/fm_tpm_qt_2025.png)                    | 4:48.1 | 03:22:39    |
 | 7    | 10/2025  | Hà Nội    | [TechComBank Marathon](https://techcombankmarathon.com/) - [log](https://github.com/truongpt/truongpt.github.io/blob/master/assets/log/fm_tcbm_hn_2025.png)                                   | 5:15.0 | 03:41:44    |
+
+## Trail race.
+
+|Index | Date     | Place     | Event                                                                                                                                                                                         | Distance/Gain   | Finish time |
+|---   | ---      | ---       | ---                                                                                                                                                                                           | ---             | ---         |
+| 1    | 10/2025  | Thanh Hóa | [VJM](https://vietnamtrailseries.com/vi/jungle-marathon/) - [log](https://github.com/truongpt/truongpt.github.io/blob/master/assets/log/trail_25km_vjm_th_2025.png)                           | 25.1KM/530M     | 3:02:44     |
