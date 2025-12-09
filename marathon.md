@@ -25,6 +25,6 @@
 
 ## Trail race.
 
-|Index | Date     | Place     | Event                                                                                                                                                                                         | Distance/Gain   | Finish time |
-|---   | ---      | ---       | ---                                                                                                                                                                                           | ---             | ---         |
-| 1    | 10/2025  | Thanh Hóa | [VJM](https://vietnamtrailseries.com/vi/jungle-marathon/) - [log](https://github.com/truongpt/truongpt.github.io/blob/master/assets/log/trail_25km_vjm_th_2025.png)                           | 25.1KM/530M     | 3:02:44     |
+|Index | Date     | Place                | Event                                                                                                                                                                | Distance/Gain   | Finish time | Rank   |
+|---   | ---      | ---                  | ---                                                                                                                                                                  | ---             | ---         | ---    |
+| 1    | 10/2025  | Pù Luông - Thanh Hóa | [VJM](https://vietnamtrailseries.com/vi/jungle-marathon/) - [log](https://github.com/truongpt/truongpt.github.io/blob/master/assets/log/trail_25km_vjm_th_2025.png)  | 25.1KM/530M     | 3:02:44     | 11/413 |
