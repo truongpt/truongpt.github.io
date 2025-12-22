@@ -4,10 +4,11 @@
 
 |Index | Date     | Place     | Event                                                                                                                                                                                        | Pace   | Finish time |
 |---   | ---      | ---       | ---                                                                                                                                                                                          | ---    | ---         |
-| 1    | 04/2024  | Ninh Bình | [Dấu Ấn Di Sản Marathon](https://truongpt.github.io/2024/05/03/may-tourist-marathon.html) - [log](https://github.com/truongpt/truongpt.github.io/blob/master/assets/log/hm_dads_nb_2024.png) | 4:32.4 | 01:35:52 (*)|
+| 1    | 04/2024  | Ninh Bình | [Dấu Ấn Di Sản Marathon](https://truongpt.github.io/2024/05/03/may-tourist-marathon.html) - [log](https://github.com/truongpt/truongpt.github.io/blob/master/assets/log/hm_dads_nb_2024.png) | 4:32.4 | 01:35:52    |
 | 2    | 10/2024  | Hà Nội    | [Vpbank Marathon](https://vpbankmarathon.com/vi/) (LR) - [log](https://github.com/truongpt/truongpt.github.io/blob/master/assets/log/hm_vpim_hn_2024.png)                                    | 5:37.2 | 01:58:35    |
 | 3    | 04/2025  | Hà Nội    | [Tayho Half Marathon](https://tayhohalfmarathon.com/) (LR) - [log](https://github.com/truongpt/truongpt.github.io/blob/master/assets/log/hm_tayho_2025.png)                                  | 5:09   | 01:48:11    |
 | 4    | 04/2025  | Hà Nội    | [Volvo all-star](https://vm.vnexpress.net/volvo-all-star-2025) - [log](https://github.com/truongpt/truongpt.github.io/blob/master/assets/log/hm_volvo_hl_2025.png)                           | 4:49   | 01:41:20    |
+| 5    | 12/2025  | Hải Phòng | [VnExpress Marathon](https://vm.vnexpress.net/hai-phong-2025) - [log](https://github.com/truongpt/truongpt.github.io/blob/master/assets/log/hm_vnexpress_hp_2025.png)                        | 4:15   | 01:29:34(*) |
 
 
 ## Full Marathon.
