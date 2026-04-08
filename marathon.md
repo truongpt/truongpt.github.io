@@ -26,7 +26,8 @@
 
 ## Trail race.
 
-|Index | Date     | Place                | Event                                                                                                                                                                | Distance/Gain   | Finish time | Rank   |
-|---   | ---      | ---                  | ---                                                                                                                                                                  | ---             | ---         | ---    |
-| 1    | 10/2025  | Pù Luông - Thanh Hóa | [VJM](https://vietnamtrailseries.com/vi/jungle-marathon/) - [log](https://github.com/truongpt/truongpt.github.io/blob/master/assets/log/trail_25km_vjm_th_2025.png)  | 25.1KM/530M     | 3:02:44     | 11/413 |
-| 1    | 01/2026  | Mộc Châu - Sơn La    | [VTM](https://vietnamtrailseries.com/vi/trail-marathon) - [log](https://github.com/truongpt/truongpt.github.io/blob/master/assets/log/trail_42km_vtm_sl_2026.png)    | 42KM/2150M      | 5:21:49     | 22/754 |
+|Index | Date     | Place                  | Event                                                                                                                                                                | Distance/Gain   | Finish time | Rank   |
+|---   | ---      | ---                    | ---                                                                                                                                                                  | ---             | ---         | ---    |
+| 1    | 10/2025  | Pù Luông - Thanh Hóa   | [VJM](https://vietnamtrailseries.com/vi/jungle-marathon/) - [log](https://github.com/truongpt/truongpt.github.io/blob/master/assets/log/trail_25km_vjm_th_2025.png)  | 25.1KM/530M     | 3:02:44     | 11/413 |
+| 2    | 01/2026  | Mộc Châu - Sơn La      | [VTM](https://vietnamtrailseries.com/vi/trail-marathon) - [log](https://truongpt.github.io/2026/02/07/vtm2026.html)                                                  | 42KM/2150M      | 5:21:49     | 22/754 |
+| 3    | 04/2026  | Mèo Vạc  - Tuyên Quang | [Hà Giang trail](https://racejungle.com/products/ha-giang-discovery-marathon-2026) - [log](https://truongpt.github.io/2026/04/07/hagiang2026.html)                   | 72KM/4087M      | 11:47:26    | 12/239 |
