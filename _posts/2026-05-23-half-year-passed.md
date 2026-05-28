@@ -56,7 +56,7 @@ Một trong những lý do mình rời Nhật Bản để quay về, là thi tho
 đi chơi, du lịch, vui vẻ cùng con cháu. Cái thế hệ các cụ là thế hệ làm nông, cơ bản là chỉ đủ nuôi con cái,
 thi thoảng may ra được tham gia du lịch theo các hội cựu chiến binh, hay hội phụ nữ làng, 
 kiểu đến ngó cho biết để nói được là tôi cũng đã đến đó thăm quan, ghế cũng không dám ngồi vì mất tiền, 
-ngủ tạm bợ chen chúc nhau tạm trong 1 cái phòng …
+ngủ tạm bợ chen chúc nhau tạm trong 1 cái phòng …  
 Các ông bà đều có tuổi, sức khỏe không phải đủ để "bung lụa" được, nên việc thiết kế chuyến đi cho các ông bà
 phải nhẹ nhàng vừa phải, đi đúng nghĩa nghỉ ngơi.
 
@@ -76,12 +76,12 @@ phải nhẹ nhàng vừa phải, đi đúng nghĩa nghỉ ngơi.
 ## Gia đình nhỏ.
 Xây dựng gia đình, nếu định nghĩa chỉ là lấy vợ, sinh con là việc không khó, trừ ông nào xấu trai hoặc tán gái dốt quá,
 chứ đến nát Chí Phèo vẫn tán được đổ Thị Nở cơ mà, biết nhắm đúng đối tượng là ổn, nghe lời các cụ cũng đừng rơi vào tình huống hoa Nhài và Trâu là được.
-Trung thực mà nói là như thế, hầu như ai cũng làm được, việc mà nhiều người đều làm được thì ai còn gọi là khó. 
+Trung thực mà nói là như thế, hầu như ai cũng làm được, việc mà nhiều người đều làm được thì ai còn gọi là khó.   
 Nhưng xây dựng ra gia đình như thế nào thì là điều khó, giữ được "không khí" trong nhà như ngày đầu thì phải nói vô
 cùng khó. Nó cần một vài nguyên tắc căn bản, nghe đơn giản, nhưng ít ai chịu nhìn nhận để tuân thủ.
 Ví như lấy vợ rồi thì không nên yêu thêm ai nữa, nếu muốn phải hỏi vợ trước. Từ khi lấy vợ xong mình yêu thêm 2 đứa,
 lúc nào cũng xin phép vợ, "Cho anh yêu thêm 2 thằng con, dĩ nhiên tình yêu dành bọn nó không thể sánh với em được", vợ đồng ý là lại
-êm ngay.
+êm ngay.  
 Thứ đến là việc nuôi dạy con cái cũng vậy, phải đủ cứng rắn để bọn nó vào khuôn phép, đủ mềm dẻo để chúng nó cảm giác bớt ngột ngạt ...
 Nói chung là khó, nên nếu cảm thấy gia đình mình đã và đang xây dựng là hài lòng, thì cũng nên biết ơn số phận một chút.
 Bản thân mình cũng biết rất ơn số phận.
@@ -96,7 +96,7 @@ Sinh nhật người đẹp nhất nhà :)
 Mình tự biết điều này không thể tránh được trong bất kỳ cuộc hôn nhân nào, nhưng không nghĩ 
 đôi lúc lại phải đối mặt với những tình huống khó xử lý như thế. Bản thân là người đứng giữa,
 một bên là vợ, một bên là thằng con 6 tuổi. Hội đó giận nhau rồi leo thang thành chiến tranh lạnh, 1 bên không 
-thèm bày cho bên kia học, 1 bên khi mặt cau có, lại còn phản bác "Mẹ dạy toàn thứ linh ta linh tinh", ý là không giống cô nó dạy.
+thèm bày cho bên kia học, 1 bên khi mặt cau có, lại còn phản bác "Mẹ dạy toàn thứ linh ta linh tinh", ý là không giống cô nó dạy.  
 Tuy mới 6 tuổi, nhưng thằng này thành thạo chiến thuật đánh phủ đầu để lấy lợi thế, mỗi khi mẹ
 nó kiểm tra bài tập, chưa biết đầu cua tai nheo gì nhưng nó cứ làm ầm ầm lên trước tỏ vẻ mình là nạn nhân, chứ không phải thằng làm bài tập sơ sài ...
 
