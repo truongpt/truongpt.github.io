@@ -6,7 +6,7 @@ Thời gian đo bằng cái gì nhỉ? những tiếng tíc tắc? hay những s
 thời gian có thật hay ảo giác của nhận thức. Thời gian với mỗi cá nhân
 có giống nhau hay ko? (dĩ nhiên Abert Einstein said NO).
 
-Nghe lại (Ngày đã đơm bông)[https://www.youtube.com/watch?v=1qzV8CEQxYU&list=RD1qzV8CEQxYU&start_radio=1].
+Nghe lại [Ngày đã đơm bông](https://www.youtube.com/watch?v=1qzV8CEQxYU&list=RD1qzV8CEQxYU&start_radio=1).
 Trích dẫn lại vài câu.
 ```
 Buổi tối ngủ trên đồi hỏi hòn đá nhỏ
@@ -19,7 +19,7 @@ Buổi sáng hỏi mây trời đi hoài có rõ
 Con đường nào con đường nào dẫn đến một ngày vui
 ```
 
-Ờ, có con đường nào có thể dẫn tới một ngày vui.
+Ờ, con đường nào có thể dẫn tới một ngày vui.
 
 ## Tết đầy đủ anh chị em gặp mặt
 Đến thời điểm hiện này là mình đã quay về Việt Nam được hơn 4 năm. Năm đầu mự mất, 
@@ -48,6 +48,9 @@ Con đường nào để dẫn đến sự hiện diện đông đủ sau thời
 
 và đội thế hệ tiếp theo.
 ![con](/assets/2026/con.jpeg)
+
+Sinh nhật năm nay đúng ngay hôm mùng 3 tết nên được kha khá đầy đủ.
+![sn](/assets/2026/sn.jpeg)
 
 ## Những chuyến đi ...
 Một trong những lý do mình rời Nhật Bản để quay về, là thi thoảng đưa các bố mẹ 
