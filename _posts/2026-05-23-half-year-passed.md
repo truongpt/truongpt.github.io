@@ -24,20 +24,19 @@ Con đường nào con đường nào dẫn đến một ngày vui
 ## Tết đầy đủ anh chị em gặp mặt
 Đến thời điểm hiện này là mình đã quay về Việt Nam được hơn 4 năm. Năm đầu mự mất, 
 năm sau đó bà mất. Ngày mự mất là ngày vô cùng đau xót, người mất thoát được khỏi 
-nỗi đau về thể xác, nghĩ như thế cho đỡ đau lòng, nhưng người ở lại, 2 đứa em … 
-Nỗi đau vẫn còn đó, chỉ là thời gian đã làm cho nó vơi đi đôi chút, giỗ mự năm thứ 3, 
+nỗi đau về thể xác, nghĩ như thế cho đỡ đau lòng, nhưng người ở lại, 2 đứa em …   
+Nỗi đau vẫn còn đó, chỉ là thời gian đã làm cho nó vơi đi đôi chút. Giỗ mự năm thứ 3, 
 đúng vào ngày làm việc nhưng mình vẫn cố gắng thu xếp về, mối quan hệ và bổn phận 
 không bắt mình phải cố gắng điều đó, công việc ở nhà cũng nhiều người lo rồi, 
-nhưng đôi khi người ta chỉ cần cho nhau sự hiện diện … Về nhà gần 8h tối, 
-thắp hương cho mự xong, anh em ngồi nói chuyện buổi chiều lên thăm mộ mự, 
+nhưng đôi khi người ta chỉ cần cho nhau sự hiện diện …   
+Về nhà gần 8h tối, thắp hương cho mự xong, anh em ngồi nói chuyện buổi chiều lên thăm mộ mự, 
 rồi kể ông cậu nó mới mua con xe cũ, ô tô, 40 triệu, vẫn đi được. 
 Mình tỏ ra tò mò, nhưng thật ra bản thân không quan tâm đến điều đó lắm, 
-cái mình để tâm là cảm giác được không khí đã dịu đi bớt, là ít nhiều thấy được nỗi đau dần được chữa lành bớt.
-
+cái mình để tâm là cảm giác được không khí đã dịu đi bớt, là ít nhiều thấy được nỗi đau dần được chữa lành bớt.  
 Tết năm nay là tết đầy đủ, mấy anh em làm xa thu xếp về được, do cưới đứa em. 
 Lâu lắm rồi mấy anh em mới có dịp gặp mặt được đầy đủ nhất, mấy đứa đi làm ăn xa nên
-năm đứa này về thì thiếu được kia, thành ra để được dịp như vậy không dễ dàng gì.
-Cơ bản là vui :)
+năm đứa này về thì thiếu được kia, thành ra để được dịp như vậy không dễ dàng gì.  
+Cơ bản là vui :).  
 Con đường nào để dẫn đến sự hiện diện đông đủ sau thời gian vắng mặt, là con đường dẫn đến ngày vui chăng?
 
 Ảnh đội anh em.
