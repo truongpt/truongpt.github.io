@@ -16,16 +16,17 @@ Hoàn thành giải đường mòn 70KM lần thứ 2, [Phong Nha Wild Trail](ht
   mình không theo được nó. Huân thì sáng dậy ăn bánh mỳ không hợp bụng nên tụt lại sau mấy phút.
   - Lần đầu trải nghiệm đá tai mèo, nghe tên đã lâu, lần đầu gặp, sắc nhọn, đoạn đầu hơi chủ quan nên xước hết tay, đành cởi vest để
   lấy tất tay thợ hàn ra, tưởng chỉ mang cho đủ điều kiện.
-  - Đồng hành cùng anh Hưng (top3 lứa tuối 40-49), người Hải Phòng từ CP5, 2 anh em thay nhau kéo từng đoạn, nhờ đó mà những đoạn xuống dốc mình cũng đi được ổn hơn.  
+  - Đồng hành cùng anh Hưng (top3 lứa tuối 40-49), người Hải Phòng. Mình vượt qua lúc leo dốc bê-tông từ CP4->CP5, nhưng đi đường rừng bị anh ấy vượt lại lúc down-hill từ CP5->CP6. 
+  Sau đó mình cố bám theo, và 2 anh em thay nhau kéo từng đoạn, nhờ đó mà những đoạn xuống dốc mình cũng đi được ổn hơn.  
   Trong lúc vào vườn thực vật trước CP7, đến đầu con suối, gặp ngay một cặp vợ chồng tắm suối, lúc mình vừa gần đến thì cô nàng bước lên bờ, 
   nguyên bộ quần áo giáp minimal, chỉ khoác thêm cái áo mỏng. Hơi luống cuống, không rõ mắt có sáng lên không, mình hỏi vội anh Hưng: "MK làm sao giờ anh, không lẽ phải đợi", 
-  ông anh đáp luôn "Kệ mịe nó, cứ chạy qua thôi em", đúng là chỉ đơn giản chỉ tập trung việc của mình mà một vài tình huống nó cũng khó.
+  không nghe rõ ông anh bảo gì, hình như kiểu là "Kệ mịe nó, cứ chạy qua thôi em", đúng là chỉ đơn giản chỉ tập trung việc của mình mà một vài tình huống nó cũng khó.
   - Sự nhiệt tình của người địa phương. Tuy 1 vài check-point không bố trí crew có kinh nghiệm để trả lời các câu hỏi của anh em, mình bất ngờ cái trạm nước trước vườn thực vật giữa CP6 và CP7, 
-  hỏi đây là CP mấy nhưng không ai biết. Tuy vậy sự hỗ trợ nhiệt tình của đội tình nguyện các cháu ở các trạm CP, lẫn các chú mắc võng, ở lán tạm trong rừng rất đáng trân trọng, 
+  hỏi đây là CP mấy nhưng không ai biết. Tuy vậy sự hỗ trợ nhiệt tình của đội tình nguyện các cháu ở các trạm CP, lẫn đội anh em trong rừng, ở lán tạm trong rừng rất đáng trân trọng, 
   lần nào đi qua cũng được các bạn quạt tay nhiệt tình.
   - Bị ong đốt 3 phát sau CP5. Cũng là lần đầu bị ong đốt, thấy cùng 1 lúc nhói 3 chỗ, mình nghĩ là ong nên cứ thế chạy nhanh cho qua, lát nhìn thấy vết chỗ đùi sưng to
   lên vào đổi màu, hơi hoảng vì không biết có phải ong không. Nhỡ không may là rắn độc khả năng ẳng cao, thì còn nhắn tin tạm biệt vợ con, và chuyển khoản nốt cho vợ cái quỹ đen để dành cho VMM-Sapa cùng lời thú tội.
-  May thay cũng đến ngay chỗ có 2 bạn bản địa hỗ trợ, nên mình hỏi để chắc chắn là vết của ong, chỉ đau chứ không nguy hiểm.
+  May thay cũng đến ngay chỗ có 2 bạn bản địa hỗ trợ, nên mình hỏi để chắc chắn là vết của ong, hỏi thêm câu "chỉ đau chứ không nguy hiểm phải không", rồi mới dám đi tiếp.
   
 - Một số bài học rút ra.
   - Đánh giá thấp đường chạy. Lúc đầu nhìn theo đội cao tích lũy theo bản đồ, ít hơn giải ở Hà Giang nên không chỉ mình mà anh em
