@@ -39,7 +39,7 @@ Hoàn thành giải đường mòn 70KM lần thứ 2, [Phong Nha Wild Trail](ht
   xem trước những đoạn chuyển bị lên dốc, hoặc những lần leo dốc dựa thay đổi độ cao để áng chừng giữ sức. Đặc biệt hơn còn biết chính xác khoảng cách bao xa là đến CP tiếp theo. 
   Thành ra nó ẳng đúng lúc cần làm bản thân rất ức chế, đầu óc lúc đó toàn "Fuck Garmin, MK Garmin ...". Có vẻ như là do bộ nhớ của nó hơn bé, lần tới thử reset hết xem có bị nữa không.  
   Nhưng giờ ngẫm lại, tại mình vô tình để phụ thuộc vào nó quá, "tiên trách kỷ, hậu trách đồng hồ". Ngoài ra tiền ít không nên đòi ... (bỏ qua 30 chữ vì sự trong sáng của blog).
-  - Đau là 1 phần của cuộc chơi, thay vì từ chối thì hãy chấp nhận và hưởng thụ nó.
+  - Đau là 1 phần của cuộc chơi, thay vì từ chối, phàn nàn thì hãy chấp nhận và tận hưởng nó.
 
 Có được vài bức ảnh, cám ơn đội NAG.  
 
