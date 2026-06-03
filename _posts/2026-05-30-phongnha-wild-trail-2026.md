@@ -17,10 +17,10 @@ Hoàn thành giải đường mòn 70KM lần thứ 2, [Phong Nha Wild Trail](ht
   3 anh em chạy cùng 1 đoạn, mà theo Huân mô tả là `chui hốc chó`. Kiên bảo mấy anh em gắng đi cùng, nhưng lát sau đến đoạn đá tai mèo,
   mình không theo được nó. Huân thì sáng dậy ăn bánh mỳ không hợp bụng nên tụt lại sau mấy phút.
   - Đồng hành cùng anh Hưng (top3 lứa tuối 40-49), người Hải Phòng. Mình vượt qua lúc leo dốc bê-tông từ CP4->CP5, nhưng đi đường rừng bị anh ấy vượt lại lúc down-hill từ CP5->CP6. 
-  Sau đó mình cố bám theo, và 2 anh em thay nhau kéo từng đoạn, nhờ đó mà những đoạn xuống dốc mình cũng đi được ổn hơn.  
+  Sau đó mình cố bám theo, 2 anh em thay nhau kéo từng đoạn, nhờ đó mà những đoạn xuống dốc mình cũng đi được tốt hơn.  
   Trong lúc vào vườn thực vật trước CP7, đến đầu con suối, gặp ngay một cặp vợ chồng tắm suối, lúc mình vừa gần đến thì cô nàng bước lên bờ, 
-  nguyên bộ quần áo giáp minimal, chỉ khoác thêm cái áo mỏng. Hơi luống cuống, không rõ mắt có sáng lên không, mình hỏi vội anh Hưng: "MK làm sao giờ anh, không lẽ phải đợi", 
-  không nghe rõ ông anh bảo gì, hình như kiểu là "Kệ mịe nó, cứ chạy qua thôi em", đúng là chỉ đơn giản chỉ tập trung việc của mình mà một vài tình huống nó cũng khó.
+  nguyên bộ quần áo giáp minimal, chỉ khoác thêm cái áo mỏng. Hơi luống cuống, không rõ lúc đó mắt mình nó có sáng lên không, 
+  mình hỏi vội anh Hưng: "MK làm sao giờ anh, không lẽ phải đợi", không nghe rõ ông anh bảo gì, hình như kiểu là "Kệ mịe nó, cứ chạy qua thôi em", đúng là chỉ đơn giản chỉ tập trung việc của mình mà một vài tình huống nó cũng khó.
   - Sự nhiệt tình của người địa phương. Tuy 1 vài check-point không bố trí crew có kinh nghiệm để trả lời các câu hỏi của anh em, mình bất ngờ cái trạm nước trước vườn thực vật giữa CP6 và CP7, 
   hỏi đây là CP mấy nhưng không ai biết. Tuy vậy sự hỗ trợ nhiệt tình của đội tình nguyện các cháu ở các trạm CP, lẫn đội anh em trong rừng, ở lán tạm trong rừng rất đáng trân trọng, 
   lần nào đi qua cũng được các bạn quạt tay nhiệt tình.
@@ -59,6 +59,8 @@ Có được vài bức ảnh, cám ơn đội NAG.
 ![11](/assets/phongnha2026/11.jpg)
 
 ![21](/assets/phongnha2026/21.jpg)
+
+![22](/assets/phongnha2026/22.jpg)
 
 ![9](/assets/phongnha2026/9.jpg)
 
