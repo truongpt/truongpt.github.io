@@ -56,8 +56,6 @@ Có được vài bức ảnh, cám ơn đội NAG.
 
 ![3](/assets/phongnha2026/3.jpg)
 
-![11](/assets/phongnha2026/11.jpg)
-
 ![21](/assets/phongnha2026/21.jpg)
 
 ![22](/assets/phongnha2026/22.jpg)
