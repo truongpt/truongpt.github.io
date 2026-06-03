@@ -18,11 +18,11 @@ Hoàn thành giải đường mòn 70KM lần thứ 2, [Phong Nha Wild Trail](ht
   lấy tất tay thợ hàn ra, tưởng chỉ mang cho đủ điều kiện.
   - Đồng hành cùng anh Hưng (top3 lứa tuối 40-49), người Hải Phòng từ CP5, 2 anh em thay nhau kéo từng đoạn, nhờ đó mà những đoạn xuống dốc mình cũng đi được ổn hơn. 
   Trong lúc vào vườn thực vật trước CP7, đến đầu con suối, 2 anh em thấy 2 vợ chồng tắm suối, lúc mình vừa gần đến thì cô nàng bước lên bờ, 
-  nguyên bộ quần áo giáp minimal, chỉ khoác thêm cái áo mỏng. Hơi luống cuống mình hỏi anh Hưng: "MK làm sao giờ anh", ông anh đáp luôn "Kệ mịe nó, cứ chạy qua thôi em", đúng là chỉ đơn giản chỉ
-  tập trung việc của mình mà một vài tình huống nó cũng khó.
+  nguyên bộ quần áo giáp minimal, chỉ khoác thêm cái áo mỏng. Hơi luống cuống, không rõ mắt có sáng lên không, mình hỏi vội anh Hưng: "MK làm sao giờ anh", 
+  ông anh đáp luôn "Kệ mịe nó, cứ chạy qua thôi em", đúng là chỉ đơn giản chỉ tập trung việc của mình mà một vài tình huống nó cũng khó.
   - Sự nhiệt tình của người địa phương. Tuy 1 vài check-point không bố trí crew có kinh nghiệm để trả lời các câu hỏi của anh em, mình bất ngờ cái trạm nước trước vườn thực vật giữa CP6 và CP7, 
-  hỏi đây là CP mấy nhưng không ai biết. Tuy vậy đội các cháu ở các trạm CP, lẫn các chú mắc võng, ở lán tạm trong rừng rất đáng trân trọng, lần nào đi qua cũng được
-  các bạn quạt tay nhiệt tình.
+  hỏi đây là CP mấy nhưng không ai biết. Tuy vậy sự hỗ trợ nhiệt tình của đội tình nguyện các cháu ở các trạm CP, lẫn các chú mắc võng, ở lán tạm trong rừng rất đáng trân trọng, 
+  lần nào đi qua cũng được các bạn quạt tay nhiệt tình.
   - Bị ong đốt 3 phát sau CP5. Lần đầu bị ong đốt, thấy cùng 1 lúc nhói 3 chỗ, mình nghĩ là ong nên cứ thế chạy nhanh cho qua, lát nhìn thấy vết chỗ đùi sưng to
   lên vào đổi màu, hơi hoảng vì không biết có phải ong không. Nhỡ không may là rắn độc khả năng ẳng cao, thì còn nhắn tin tạm biệt vợ con, và chuyển khoản nốt cho vợ cái quỹ đen để dành cho VMM-Sapa cùng lời thú tội.
   May cũng đến ngay chỗ có 2 bạn bản địa hỗ trợ, nên mình hỏi để chắc chắn là vết của ong, chỉ đau chứ không nguy hiểm.
@@ -32,25 +32,26 @@ Hoàn thành giải đường mòn 70KM lần thứ 2, [Phong Nha Wild Trail](ht
   nói chung có phần đánh ra thấp. Đúng là nên tìm hiểu kỹ hơn trước khi vào giải, dù sao thì cũng để chuẩn bị tâm lý tốt hơn.
   - Năng lực chạy đường trail cần kỹ thuật cao. Những đoạn đường đá tai mèo chưa quen, nguy hiểm đi chậm đã đành, nhưng những đoạn
   dốc hơi khó mình cũng không đi tốt được, cơ bản nên cố gắng tập thêm những đường trail có tính kỹ thuật.
+  - Khi ở giữa chặng đường, nếu bị vượt, cần hiểu rằng nếu mình vẫn giữ nhịp độ thì họ cũng ở trước không xa, cố gắng có thể vượt lại được. 
+  Ngược lại khi vượt được ai đó, sau đó giảm nhịp độ chạy lại thì thể nào họ cũng vượt lên lại.
   - Phụ thuộc vào đồng hồ. Con Garmin bị reset 2 lần, mỗi lần 10-15 phút, khá ức chế, sau đó lại treo, phản ứng cực chậm, đến reset lần 3 thì ẳng luôn ở KM52.
   Đi trail, ngoài việc dùng đồng hồ để định tuyến tránh lạc đường, mình thường dựa vào đồng hồ xem nhịp tim để đánh giá bản thân có cần cố lên hay đi nhẹ lại, 
   xem trước những đoạn chuyển bị lên dốc, hoặc những lần leo dốc dựa thay đổi độ cao để áng chừng giữ sức. Đặc biệt hơn còn biết chính xác khoảng cách bao xa là đến CP tiếp theo. 
-  Thành ra nó ẳng đúng lúc cần làm bản thân rất ức chế, đầu óc lúc đó toàn "Fuck Garmin, MK Garmin ...".  
+  Thành ra nó ẳng đúng lúc cần làm bản thân rất ức chế, đầu óc lúc đó toàn "Fuck Garmin, MK Garmin ...". Có vẻ như là do bộ nhớ của nó hơn bé, lần tới thử reset hết xem có bị nữa không.  
   Nhưng giờ ngẫm lại, tại mình vô tình để phụ thuộc vào nó quá, "tiên trách kỷ, hậu trách đồng hồ". Ngoài ra tiền ít không nên đòi ... (bỏ qua 30 chữ vì sự trong sáng của blog).
+
 
 ![17](/assets/phongnha2026/17.jpg)
 
-![1](/assets/phongnha2026/1.jpg)
-
-![3](/assets/phongnha2026/3.jpg)
+![13](/assets/phongnha2026/13.jpg)
 
 ![4](/assets/phongnha2026/4.jpg)
 
 ![6](/assets/phongnha2026/6.jpg)
 
-![11](/assets/phongnha2026/11.jpg)
+![3](/assets/phongnha2026/3.jpg)
 
-![13](/assets/phongnha2026/13.jpg)
+![11](/assets/phongnha2026/11.jpg)
 
 ![21](/assets/phongnha2026/21.jpg)
 
