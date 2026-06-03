@@ -64,3 +64,5 @@ Có được vài bức ảnh, cám ơn đội NAG.
 
 ![cert](/assets/phongnha2026/e-cert.png)
 
+![eslip](/assets/phongnha2026/eslip.png)
+
