@@ -16,8 +16,8 @@ Hoàn thành giải đường mòn 70KM lần thứ 2, [Phong Nha Wild Trail](ht
   mình không theo được nó. Huân thì sáng dậy ăn bánh mỳ không hợp bụng nên tụt lại sau mấy phút.
   - Lần đầu trải nghiệm đá tai mèo, nghe tên đã lâu, lần đầu gặp, sắc nhọn, đoạn đầu hơi chủ quan nên xước hết tay, đành cởi vest để
   lấy tất tay thợ hàn ra, tưởng chỉ mang cho đủ điều kiện.
-  - Đồng hành cùng anh Hưng (top3 lứa tuối 40-49), người Hải Phòng từ CP5, 2 anh em thay nhau kéo từng đoạn, nhờ đó mà những đoạn xuống dốc mình cũng đi được ổn hơn. 
-  Trong lúc vào vườn thực vật trước CP7, đến đầu con suối, một cặp vợ chồng tắm suối, lúc mình vừa gần đến thì cô nàng bước lên bờ, 
+  - Đồng hành cùng anh Hưng (top3 lứa tuối 40-49), người Hải Phòng từ CP5, 2 anh em thay nhau kéo từng đoạn, nhờ đó mà những đoạn xuống dốc mình cũng đi được ổn hơn.  
+  Trong lúc vào vườn thực vật trước CP7, đến đầu con suối, gặp ngay một cặp vợ chồng tắm suối, lúc mình vừa gần đến thì cô nàng bước lên bờ, 
   nguyên bộ quần áo giáp minimal, chỉ khoác thêm cái áo mỏng. Hơi luống cuống, không rõ mắt có sáng lên không, mình hỏi vội anh Hưng: "MK làm sao giờ anh, không lẽ phải đợi", 
   ông anh đáp luôn "Kệ mịe nó, cứ chạy qua thôi em", đúng là chỉ đơn giản chỉ tập trung việc của mình mà một vài tình huống nó cũng khó.
   - Sự nhiệt tình của người địa phương. Tuy 1 vài check-point không bố trí crew có kinh nghiệm để trả lời các câu hỏi của anh em, mình bất ngờ cái trạm nước trước vườn thực vật giữa CP6 và CP7, 
@@ -39,6 +39,8 @@ Hoàn thành giải đường mòn 70KM lần thứ 2, [Phong Nha Wild Trail](ht
   xem trước những đoạn chuyển bị lên dốc, hoặc những lần leo dốc dựa thay đổi độ cao để áng chừng giữ sức. Đặc biệt hơn còn biết chính xác khoảng cách bao xa là đến CP tiếp theo. 
   Thành ra nó ẳng đúng lúc cần làm bản thân rất ức chế, đầu óc lúc đó toàn "Fuck Garmin, MK Garmin ...". Có vẻ như là do bộ nhớ của nó hơn bé, lần tới thử reset hết xem có bị nữa không.  
   Nhưng giờ ngẫm lại, tại mình vô tình để phụ thuộc vào nó quá, "tiên trách kỷ, hậu trách đồng hồ". Ngoài ra tiền ít không nên đòi ... (bỏ qua 30 chữ vì sự trong sáng của blog).
+  - Cẩn thận ăn uống. trạng thái đói và nóng trước khi vào CP làm bản thân ăn hơi nhiều cháo, 1 phần thì các cháu nó múc nhiều quá, đổ thì ngại. Thêm nữa dạ dày mình không tốt
+  không nên uống Coca đã đành, đằng này chơi luôn 2 cốc, vì ngon miệng quá. Ra khỏi CP không chạy được ngay, lại còn bị nôn khan. 40 tuổi đầu rồi vẫn ngu, để cái miệng làm hại cái thân.
   - Đau là 1 phần của cuộc chơi, thay vì từ chối, phàn nàn thì hãy chấp nhận và tận hưởng nó.
 
 Có được vài bức ảnh, cám ơn đội NAG.  
