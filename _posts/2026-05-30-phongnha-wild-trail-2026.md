@@ -10,12 +10,12 @@ Hoàn thành giải đường mòn 70KM lần thứ 2, [Phong Nha Wild Trail](ht
   - Được trải nghiệm lái Ford-Everest gần 400KM, không có show-room nào có thể cho bạn lái thử dài như thế.
   - Trải nghiệm đoạn cao tốc mới Hà Tĩnh - Quảng Bình, nhiều đoạn qua núi, khá đẹp. (riêng đoạn Hà Nội - Nghệ An thì mình thuộc lòng rồi).
   - Biết đến vùng đất mới, Phong Nha - Kẻ Bàng. Ở vùng này đồ ăn ngon, nhưng hơi ngọt. Vào check-point mình để ý hóa ra từ vùng Quảng Bình đã gọi cốc là cái ly :). Giọng người Quảng Bình kha khá giống giọng Huế.
+  - Biết thế nào là rừng Trường Sơn. Lần đầu trải nghiệm đá tai mèo, nghe tên đã lâu, lần đầu gặp, sắc nhọn, đoạn đầu hơi chủ quan nên xước hết tay, đành cởi vest để
+  lấy tất tay thợ hàn ra, tưởng chỉ mang cho đủ điều kiện.
   - 3 anh em An Khánh Runner chạy cùng nhau đoạn đầu, trước CP2, khá là vui. Đoạn đầu mình cố bám theo Huân để thoát khỏi tắc
   đường đoạn đầu do đông người, sau đó gặp Kiên, hôm nay không chịu đua top, khả năng do nó mang vợ đi cùng nên có lẽ hơi gắng sức tối qua, hoặc vợ nhắc nhở giữ sức tối về còn làm việc quan trọng hơn.  
   3 anh em chạy cùng 1 đoạn, mà theo Huân mô tả là `chui hốc chó`. Kiên bảo mấy anh em gắng đi cùng, nhưng lát sau đến đoạn đá tai mèo,
   mình không theo được nó. Huân thì sáng dậy ăn bánh mỳ không hợp bụng nên tụt lại sau mấy phút.
-  - Lần đầu trải nghiệm đá tai mèo, nghe tên đã lâu, lần đầu gặp, sắc nhọn, đoạn đầu hơi chủ quan nên xước hết tay, đành cởi vest để
-  lấy tất tay thợ hàn ra, tưởng chỉ mang cho đủ điều kiện.
   - Đồng hành cùng anh Hưng (top3 lứa tuối 40-49), người Hải Phòng. Mình vượt qua lúc leo dốc bê-tông từ CP4->CP5, nhưng đi đường rừng bị anh ấy vượt lại lúc down-hill từ CP5->CP6. 
   Sau đó mình cố bám theo, và 2 anh em thay nhau kéo từng đoạn, nhờ đó mà những đoạn xuống dốc mình cũng đi được ổn hơn.  
   Trong lúc vào vườn thực vật trước CP7, đến đầu con suối, gặp ngay một cặp vợ chồng tắm suối, lúc mình vừa gần đến thì cô nàng bước lên bờ, 
