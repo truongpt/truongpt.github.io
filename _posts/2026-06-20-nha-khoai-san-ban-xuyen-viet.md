@@ -39,9 +39,20 @@ làm mấy bánh Cu-đơ, lần này vợ khen ngon, có vẻ mua tại lò có 
 - Biển Kỳ Xuân nhìn ngon lành hơn so với Thiên Cầm, sóng nhẹ, biển khá xanh. Thêm mấy hòn đá nên phù 
 hợp với các thanh niên thích sống ảo. Lúc đầu chỉ tính ghé qua, nhưng mấy ông con đòi tắm nên ở lại lâu
 hơn cho tụi nó tắm. Tuy biển đẹp nhưng dịch vụ chưa có mấy, chủ yếu có mấy quán ăn uống, việc tắm nước 
-ngọt cũng khá phiền phức. Tầm gần 11h xuất phát đi Nhật Lệ, vẫn bám đường ven biển.
+ngọt cũng khá phiền phức. Tầm gần 11h xuất phát đi Nhật Lệ, vẫn bám đường ven biển.  
+![kyxuan](/assets/xuyenviet2026/day2_kyxuan.jpg)
+
+![kyxuan](/assets/xuyenviet2026/day2_kyxuan_1.jpg)
+
 - Ăn trưa ở đường tránh Kỳ Anh, khá ngon, nhưng quên dặn nên đồ nấu khá cay, vợ con không ăn được nhiều.
 - 3h00 đến Nhật Lệ, nghỉ ở khách sạn Nam Long Plus, tuy không mới, nhưng sạch sẽ, phòng ốc rộng rãi.
 - 5h30 rủ nhau đi ra biển Bảo Ninh, sóng biển khá lớn, nên chủ yếu chơi cưỡi sóng, dịch vụ tắm táp, gửi xe
 khá ổn.
+- 8h30 mới kịp đi ăn tối, tính đến quán cơm bao cấp, nhưng đến đó thấy khá đông, có vẻ khá nổi, nhưng cũng
+thấy 1 phần do bài trí quán nên khá nhiều thanh niên đến check-in. Đổi lại sang quán cơm Bếp Xưa, cũng ngon.  
+![dinner](/assets/xuyenviet2026/day2_dinner.jpg)
+
+- Lúc về lượn qua quảng trường HCM làm vài cái ảnh, và cả nhà đi dạo 1 lát ở bên bờ sông Nhật Lệ.  
+![square](/assets/xuyenviet2026/day2_qb_square.jpg)
+
 
