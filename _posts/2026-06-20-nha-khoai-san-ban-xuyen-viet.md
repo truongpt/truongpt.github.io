@@ -1,6 +1,9 @@
 # Du lịch bán xuyên Việt lần đầu.
 - Tổng số km:
 
+## Mục lục
+* [Ngày 1](#ngày-1:-hà-nội-->-thiên-cầm,-hà-tĩnh.)
+
 ## Ngày 1: Hà Nội -> Thiên Cầm, Hà Tĩnh.
 - Quãng đường: 384KM, [clip](https://www.youtube.com/watch?v=tLHORgngMnM)
 - 5h30 Xuất phát, hơi muộn hơn chút theo dự định, nên vành đai 3 có hơi tắc nhẹ, dù sao cũng
