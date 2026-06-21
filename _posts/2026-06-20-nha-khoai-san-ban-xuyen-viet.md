@@ -2,7 +2,8 @@
 - Tổng số km:
 
 ## Mục lục
-* [Ngày 1](#ngày-1:-hà-nội-->-thiên-cầm,-hà-tĩnh.)
+* [Ngày 1: Hà Nội -> Thiên Cầm, Hà Tĩnh.](#ngày-1:-hà-nội-->-thiên-cầm,-hà-tĩnh.)
+* [Ngày 2: Thiên Cầm -> Kỳ Xuân, Hà Tĩnh -> Nhật Lệ, Quảng Bình.](#ngày-2:-thiên-cầm-->-kỳ-xuân,-hà-tĩnh-->-nhật-lệ,-quảng-bình.)
 
 ## Ngày 1: Hà Nội -> Thiên Cầm, Hà Tĩnh.
 - Quãng đường: 384KM, [clip](https://www.youtube.com/watch?v=tLHORgngMnM)
@@ -29,7 +30,7 @@ Biển một bên và vợ con tôi một bên.
 ![didaobien](/assets/xuyenviet2026/day1_didaobien.jpg)
 
 ## Ngày 2: Thiên Cầm -> Kỳ Xuân, Hà Tĩnh -> Nhật Lệ, Quảng Bình.
-- Quảng đường: 130KM, [clip]()
+- Quảng đường: 135KM, [clip]()
 - Sáng sớm mình có làm tý chạy bộ 5km dọc bờ biển Thiên Cầm, toàn đường bê tông nên hơi đau chân.
 - Cả nhà ăn sáng bánh Canh cá Lóc ở quán Thiện Mập, do bên lễ tân gợi ý, khá là ngon. Tiện thể mình
 làm mấy bánh Cu-đơ, lần này vợ khen ngon, có vẻ mua tại lò có khác :D.
