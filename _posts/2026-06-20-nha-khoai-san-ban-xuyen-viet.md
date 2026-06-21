@@ -50,7 +50,7 @@ ngọt cũng khá phiền phức. Tầm gần 11h xuất phát đi Nhật Lệ, 
 khá ổn.
 - 8h30 mới kịp đi ăn tối, tính đến quán cơm bao cấp, nhưng đến đó thấy khá đông, có vẻ khá nổi, nhưng cũng
 thấy 1 phần do bài trí quán nên khá nhiều thanh niên đến check-in. Đổi lại sang quán cơm Bếp Xưa, cũng ngon.  
-![dinner](/assets/xuyenviet2026/day2_dinner.jpg)
+![dinner](/assets/xuyenviet2026/day2_qb_dinner.jpg)
 
 - Lúc về lượn qua quảng trường HCM làm vài cái ảnh, và cả nhà đi dạo 1 lát ở bên bờ sông Nhật Lệ.  
 ![square](/assets/xuyenviet2026/day2_qb_square.jpg)
