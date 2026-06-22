@@ -74,7 +74,7 @@ trạm dừng chân nào trên đoạn này. Sau đó rời cao tốc ở La Sơ
 theo quốc lộ 1A đi qua hầm Hải Vân, con hầm dài nhất đường bộ Việt Nam nối Huế với Đà Nẵng.
 - 17h00, check-in khách sạn Hạnh Phúc :), tuy có hơi phiền phức gửi xe, nhưng phòng ốc rộng rãi, sạch sẽ, lễ tân lễ
 phép, thêm việc giặt gũ, sấy quần áo miễn phí.
-- Gần 18h00, cả nhà ra biển Mỹ Khê tắm 30p rồi về chuẩn bị đi ăn cơm.
+- Gần 18h00, cả nhà ra biển Mỹ Khê tắm 30p rồi về chuẩn bị đi ăn cơm. Gần khách sạn, đường Hồ Nghinh khá nhiều quán để lựa chọn.
 - Hôm nay ngồi xe nhiều, nên cơm xong, ngồi thêm chút caffe, lên kế hoạch cụ thể 2 ngày ở Đà Nẵng, 2 thằng con mải
 trêu chọc nhau nên cơ bản vợ chồng phải tự quyết hết :D.
 
