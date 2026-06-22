@@ -57,4 +57,28 @@ phục vụ nhanh.
 và hơi nóng.  
 ![square](/assets/xuyenviet2026/day2_qb_square.jpg)
 
+# Ngày 3: Nhật Lệ, Quảng Bình -> Mỹ Khê, Đà Nẵng.
+- Quãng đường: 278KM, [clip]()
+- Tranh thủ buổi sáng, đi dạo ở biển Nhật Lệ.  
+![nhatle](/assets/xuyenviet2026/day3_qb_nhatle.jpg)
+
+![nhatle](/assets/xuyenviet2026/day3_qb_nhatle_1.jpg)
+
+- 10h00, xuất phát, ghé qua cánh đồng điện gió, nơi mà cách đây 2 năm mình đi qua lúc vào Đông Hà chạy Tiền
+Phong Marathon, mình đã tự hứa có ngày sẽ mang vợ con qua ngắm cảnh ở đây.  
+![nhatle](/assets/xuyenviet2026/day3_diengio_1.jpg)
+
+![nhatle](/assets/xuyenviet2026/day3_diengio_2.jpg)
+
+- Sau cánh đồng điện gió, theo cao tốc Vạn Ninh - Cam Lộ để tiếp tục hành trình, đoạn còn lại mình xem xét trước
+biết đang sửa đường, nhưng hơi chủ quan lại đi luôn đoạn Cam Lộ - La Sơn, làm trễ mất giờ ăn trưa, do không có
+trạm dừng chân nào trên đoạn này. Sau đó rời cao tốc ở La Sơn sang quốc lộ 1A, dừng chân ở trạm nghỉ chân Bạch Mã,
+theo quốc lộ 1A đi qua hầm Hải Vân, con hầm dài nhất đường bộ Việt Nam nối Huế với Đà Nẵng.
+- 17h00, check-in khách sạn Hạnh Phúc :), tuy có hơi phiền phức gửi xe, nhưng phòng ốc rộng rãi, sạch sẽ, lễ tân lễ
+phép, thêm việc giặt gũ, sấy quần áo miễn phí.
+- Gần 18h00, cả nhà ra biển Mỹ Khê tắm 30p rồi về chuẩn bị đi ăn cơm.
+- Hôm nay ngồi xe nhiều, nên cơm xong, ngồi thêm chút caffe, lên kế hoạch cụ thể 2 ngày ở Đà Nẵng, 2 thằng con mải
+trêu chọc nhau nên cơ bản vợ chồng phải tự quyết hết :D.
+
+
 
