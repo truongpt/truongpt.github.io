@@ -60,8 +60,6 @@ và hơi nóng.
 # Ngày 3: Nhật Lệ, Quảng Bình -> Mỹ Khê, Đà Nẵng.
 - Quãng đường: 278KM, [clip]()
 - Tranh thủ buổi sáng, đi dạo ở biển Nhật Lệ.  
-![nhatle](/assets/xuyenviet2026/day3_qb_nhatle.jpg)
-
 ![nhatle](/assets/xuyenviet2026/day3_qb_nhatle_1.jpg)
 
 - 10h00, xuất phát, ghé qua cánh đồng điện gió, nơi mà cách đây 2 năm mình đi qua lúc vào Đông Hà chạy Tiền
