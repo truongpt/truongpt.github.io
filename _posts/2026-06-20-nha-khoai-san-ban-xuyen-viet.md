@@ -91,6 +91,8 @@ dựng ở đỉnh Bà Nà đã thay đổi rất nhiều, các công trình the
 
 ![bana_2](/assets/xuyenviet2026/day4_bana_2.jpg)
 
+![bana_3](/assets/xuyenviet2026/day4_bana_3.jpg)
+
 - Hè cách đây 13 năm, cũng 1 chuyến Bà Nà sau khi cưới. 2 bức ảnh cách nhau 13 năm, vẫn đúng bộ đồ đó :D.  
 ![13years](/assets/xuyenviet2026/day4_13years.jpg)
 
