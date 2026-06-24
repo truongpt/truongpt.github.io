@@ -58,7 +58,7 @@ và hơi nóng.
 ![square](/assets/xuyenviet2026/day2_qb_square.jpg)
 
 # Ngày 3: Nhật Lệ, Quảng Bình -> Mỹ Khê, Đà Nẵng.
-- Quãng đường: 278KM, [clip]()
+- Quãng đường: 291KM, [clip]()
 - Tranh thủ buổi sáng, đi dạo ở biển Nhật Lệ.  
 ![nhatle](/assets/xuyenviet2026/day3_qb_nhatle_1.jpg)
 
@@ -79,6 +79,7 @@ phép, thêm việc giặt gũ, sấy quần áo miễn phí.
 trêu chọc nhau nên cơ bản vợ chồng phải tự quyết hết :D.
 
 # Ngày 4: Bà Nà, Đà Nẵng.
+- Quảng đường: 56KM.
 - 5h30, 2 đứa ra ngắm mặt trời mọc ở bãi biển Đà Nẵng, sau đó mình tranh thủ chạy bộ đến thăm nhà bà chị cách đó 5KM.  
 ![morning](/assets/xuyenviet2026/day4_morning.jpg)
 
@@ -97,3 +98,28 @@ dựng ở đỉnh Bà Nà đã thay đổi rất nhiều, các công trình the
 ![13years](/assets/xuyenviet2026/day4_13years.jpg)
 
 - 19h00, về đến nhà, ăn tối cạnh khách sạn, sau đó cũng tranh thủ đi dạo, dẫm cát biển chút.
+
+# Ngày 5: Đà Nẵng -> Huế.
+- Quãng đường: 250KM.
+- 7h30, cả nhà ra bãi biển Đà Năng đi bơi, tính là chèo thuyền Sup, nhưng bãi biển này không có. Bữa sáng
+vẫn mỳ Quảng, do thằng con thích nên cả nhà chiều nó.  
+![myquang](/assets/xuyenviet2026/day5_myquang.jpg)
+
+- Dọn dẹp phòng, 12h trả phòng, xuất phát đi thánh địa Mỹ Sơn, ăn trưa đặc sản Đà Nẵng, bánh cuốn thịt heo trên
+đường đi.
+- 13h30 đến thánh địa Mỹ Sơn, di sản của đế chế Champa rực rỡ một thời. Thời tiết khá nóng, nhưng cả
+nhà vẫn xem hết toàn bộ cả quần thể. Có xe điện chuyên chở nên cũng đỡ.  
+
+![myson_1](/assets/xuyenviet2026/day5_myson_1.jpg)
+
+![myson_2](/assets/xuyenviet2026/day5_myson_2.jpg)
+
+![myson_3](/assets/xuyenviet2026/day5_myson_3.jpg)
+
+![myson_4](/assets/xuyenviet2026/day5_myson_4.jpg)
+
+- 16h30, xuất phát về Huế, do cao tốc đang sửa nên mình chủ động đi quốc lộ 1A, nhiều biển báo nhưng nhờ VietMap
+nên đi cũng khá tự tin.
+- 19h30, check-in ở home stay Nemo, nằm ngay trong địa nội, phòng ốc rộng rãi sạch sẽ.
+- Buổi tối cả nhà đi ăn bánh đa xúc hến, nhưng nó cay quá, đúng là Huế, thành ra mình phải ăn một mình, vợ con phải 
+gọi món khác.
