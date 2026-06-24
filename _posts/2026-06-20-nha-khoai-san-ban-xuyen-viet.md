@@ -2,8 +2,11 @@
 - Tổng số km:
 
 ## Mục lục
-* [Ngày 1: Hà Nội -> Thiên Cầm, Hà Tĩnh.](#ngày-1:-hà-nội-->-thiên-cầm,-hà-tĩnh.)
-* [Ngày 2: Thiên Cầm -> Kỳ Xuân, Hà Tĩnh -> Nhật Lệ, Quảng Bình.](#ngày-2:-thiên-cầm-->-kỳ-xuân,-hà-tĩnh-->-nhật-lệ,-quảng-bình.)
+- Ngày 1: Hà Nội -> Thiên Cầm, Hà Tĩnh.
+- Ngày 2: Thiên Cầm -> Kỳ Xuân, Hà Tĩnh -> Nhật Lệ, Quảng Bình.
+- Ngày 3: Nhật Lệ, Quảng Bình -> Mỹ Khê, Đà Nẵng.
+- Ngày 4: Bà Nà, Đà Nẵng.
+- Ngày 5: Đà Nẵng -> Huế.
 
 ## Ngày 1: Hà Nội -> Thiên Cầm, Hà Tĩnh.
 - Quãng đường: 384KM, [clip](https://www.youtube.com/watch?v=tLHORgngMnM)
