@@ -79,10 +79,19 @@ phép, thêm việc giặt gũ, sấy quần áo miễn phí.
 trêu chọc nhau nên cơ bản vợ chồng phải tự quyết hết :D.
 
 # Ngày 4: Bà Nà, Đà Nẵng.
-- 5h30, 2 đứa ra ngắm mặt trời mọc ở bãi biển Đà Nẵng, sau đó mình tranh thủ chạy bộ đến thăm nhà bà chị cách đó 5KM.
+- 5h30, 2 đứa ra ngắm mặt trời mọc ở bãi biển Đà Nẵng, sau đó mình tranh thủ chạy bộ đến thăm nhà bà chị cách đó 5KM.  
+![morning](/assets/xuyenviet2026/day4_morning.jpg)
+
 - Ăn sáng mỳ Quảng gần khách sạn, rồi 8h00 cả nhà xuất phát đi Bà Nà Hill, địa điểm này chắc không cần giới thiệu nhiều,
 từ trung tầm Đà Nẵng, cách tầm 26KM, nhưng không đi nhanh được, cũng phải gần 1h.
 - Mua full vé + ăn trưa buffet, so với lần cách đây hơn 12 năm, 2 đứa từng đi sau khi cưới thì cơ sở hạ tầng được xây,
 dựng ở đỉnh Bà Nà đã thay đổi rất nhiều, các công trình theo kiểu thời phục hưng ở Trung Âu, khá ấn tượng mấy bộ phim 
-3D, 4D, 5D, đặc biệt ở lâu đài Mặt Trăng.
-- 19h00, về đến nhà, ăn tối cạnh khách sạn, sau đó cũng tranh thủ đi dạo biển 1 lát.
+3D, 4D, 5D, đặc biệt ở lâu đài Mặt Trăng.  
+![bana_1](/assets/xuyenviet2026/day4_bana_1.jpg)
+
+![bana_2](/assets/xuyenviet2026/day4_bana_2.jpg)
+
+- Hè cách đây 13 năm, cũng 1 chuyến Bà Nà sau khi cưới. 2 bức ảnh cách nhau 13 năm, vẫn đúng bộ đồ đó :D.  
+![13years](/assets/xuyenviet2026/day4_13years.jpg)
+
+- 19h00, về đến nhà, ăn tối cạnh khách sạn, sau đó cũng tranh thủ đi dạo, dẫm cát biển chút.
