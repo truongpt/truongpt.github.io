@@ -103,7 +103,7 @@ dựng ở đỉnh Bà Nà đã thay đổi rất nhiều, các công trình the
 - 19h00, về đến nhà, ăn tối cạnh khách sạn, sau đó cũng tranh thủ đi dạo, dẫm cát biển chút.
 
 # Ngày 5: Đà Nẵng -> Huế.
-- Quãng đường: 250KM.
+- Quãng đường: 171KM.
 - 7h30, cả nhà ra bãi biển Đà Năng đi bơi, tính là chèo thuyền Sup, nhưng bãi biển này không có. Bữa sáng
 vẫn mỳ Quảng, do thằng con thích nên cả nhà chiều nó.  
 ![myquang](/assets/xuyenviet2026/day5_myquang.jpg)
@@ -126,3 +126,23 @@ nên đi cũng khá tự tin.
 - 19h30, check-in ở home stay Nemo, nằm ngay trong địa nội, phòng ốc rộng rãi sạch sẽ.
 - Buổi tối cả nhà đi ăn bánh đa xúc hến, nhưng nó cay quá, đúng là Huế, thành ra mình phải ăn một mình, vợ con phải 
 gọi món khác.
+
+# Ngày 6: Huế -> Đồng Hới, Quảng Bình.
+- Quãng đường: 190KM.
+- 6h30, cả nhà thăm quan đại nội huế, tranh thủ mua sắm quà cáp.  
+![dainoi_1](/assets/xuyenviet2026/day6_dainoi_1.jpg)
+
+![dainoi_2](/assets/xuyenviet2026/day6_dainoi_2.jpg)
+
+![dainoi_3](/assets/xuyenviet2026/day6_dainoi_3.jpg)
+
+- 11h00, xuất phát đi Đồng Hới, rút kinh nghiệm lần đi vào, lần này tránh cao tốc. Trước đi cũng lòng vòng qua mấy điểm
+Quốc Học Huế, cầu Trường Tiền. Đi quốc lộ 1A, nên đoạn qua Quảng Trị đi qua cầu Hiền Lương, mình dừng xe xuống đứng nhìn
+một lúc.
+- Ăn trưa dọc đường ở Cam Lộ, Quảng Trị, được quả hít gió Lào "mát mẻ".
+- 15h00, check-in Misa hotel, khách sạn mới 3 tháng, sạch sẽ, phòng ốc rộng rãi, cách biển Nhật Lệ 3KM.
+- 17h45, cả nhà kéo nhau ra biển Nhật Lệ, hơi phiền phức chỗ gửi xe.
+- Ăn tối ở bãi biển Nhật Lệ.  
+![nhatle](/assets/xuyenviet2026/day6_nhatle.jpg)
+
+
