@@ -7,6 +7,7 @@
 - Ngày 3: Nhật Lệ, Quảng Bình -> Mỹ Khê, Đà Nẵng.
 - Ngày 4: Bà Nà, Đà Nẵng.
 - Ngày 5: Đà Nẵng -> Huế.
+- Ngày 6: Huế -> Đồng Hới, Quảng Bình.
 
 ## Ngày 1: Hà Nội -> Thiên Cầm, Hà Tĩnh.
 - Quãng đường: 384KM, [clip](https://www.youtube.com/watch?v=tLHORgngMnM)
