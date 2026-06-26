@@ -129,7 +129,7 @@ nên đi cũng khá tự tin.
 gọi món khác.
 
 # Ngày 6: Huế -> Đồng Hới, Quảng Bình.
-- Quãng đường: 190KM.
+- Quãng đường: 188KM.
 - 6h30, cả nhà thăm quan đại nội huế, tranh thủ mua sắm quà cáp.  
 ![dainoi_1](/assets/xuyenviet2026/day6_dainoi_1.jpg)
 
