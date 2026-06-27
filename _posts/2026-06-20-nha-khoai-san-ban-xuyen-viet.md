@@ -1,7 +1,11 @@
 # Du lịch bán xuyên Việt lần đầu.
 
-## Tóm tắt chuyến đi.
-- Tổng số km:
+## Tóm tắt chuyến đi
+- Đường đi và xăng dầu.
+  - Tổng số 1783KM.
+  - Tròn 3 triệu tiền dầu xe. Trung bình đợt này 25.5k/L -> 117L dầu.
+  - 6.6L/100KM.
+  - Phí đường cao tốc: 1,088,341 -> 1M.
 - Ngày 1: Hà Nội -> Thiên Cầm, Hà Tĩnh.
 - Ngày 2: Thiên Cầm -> Kỳ Xuân, Hà Tĩnh -> Đồng Hới, Quảng Bình.
 - Ngày 3: Đồng Hới, Quảng Bình -> Đà Nẵng.
