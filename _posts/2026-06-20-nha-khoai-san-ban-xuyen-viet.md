@@ -12,7 +12,7 @@
 - Ngày 4: Bà Nà, Đà Nẵng.
 - Ngày 5: Đà Nẵng -> Thánh địa Mỹ Sơn -> Huế.
 - Ngày 6: Huế -> Đồng Hới, Quảng Bình.
-- Ngày 7: Đồng Hới, Quảng Bình -> Vinh, Nghệ An.
+- Ngày 7: Đồng Hới, Quảng Bình -> Hà Tĩnh -> Vinh, Nghệ An.
 - Ngày 8: Vinh, Nghệ An -> Hà Nội.
 
 ## Vừa đi đường vừa ghi chép.
@@ -120,7 +120,7 @@ dựng ở đỉnh Bà Nà đã thay đổi rất nhiều, các công trình the
 - 19h00, về đến nhà, ăn tối cạnh khách sạn, sau đó cũng tranh thủ đi dạo, dẫm cát biển chút.
 
 ### Ngày 5: Đà Nẵng -> Thánh địa Mỹ Sơn -> Huế.
-Quãng đường: 171KM. Mỹ Sơn cách chỗ ở ở Đà Nẵng chưa đến 50KM, nhưng đi hơn 1h30, kiểu đường ngày xưa, vòng vo
+Quãng đường: 171KM, đi quốc lộ 1A. Mỹ Sơn cách chỗ ở ở Đà Nẵng chưa đến 50KM, nhưng đi hơn 1h30, kiểu đường ngày xưa, vòng vo
 quanh núi, tuy nhiên đường đẹp, cảnh cũng đẹp. Lúc đầu mình cứ nghĩ thánh địa Mỹ Sơn là nguyên những gì còn lại,
 nhưng đến mới hiểu nó đã được trùng tu rất nhiều, có chỗ chưa được trung tu thì đúng chỉ như đống đổ nát. Trải nghiệm
 văn hóa Champa qua điệu múa Apsara, các nữ công vừa bước ra làm mình há hốc mồm quay sang vợ, hỏi "Anh có được xem không?" :)).  
@@ -148,7 +148,7 @@ nên đi cũng khá tự tin.
 gọi món khác.
 
 # Ngày 6: Huế -> Đồng Hới, Quảng Bình.
-Quãng đường: 188KM. Sáng sớm cả nhà dậy sớm để thăm quan đại nội Huế, vì thời tiết rất nóng. Không lưu lại Huế lâu
+Quãng đường: 188KM, đi quốc lộ 1A. Sáng sớm cả nhà dậy sớm để thăm quan đại nội Huế, vì thời tiết rất nóng. Không lưu lại Huế lâu
 để có thể cảm nhận hết cái nét Huế, tuy nhiên tiếp xúc với chị chủ Homestay, cô bán nước mía, cô bán mè-xửng, hay
 thằng ku pha caffe, cảm thấy được cách ăn nói của họ rất nhẹ nhàng, dạ thưa, đúng là rất Huế. Lần này cũng thấy có chút
 thay đổi, nhưng không nhiều, theo mình nghĩ Huế có tiềm năng du lịch hơn nhiều với những gì đang được khai thác. Huế
@@ -169,17 +169,20 @@ một lúc.
 - Ăn tối ở bãi biển Nhật Lệ.  
 ![nhatle](/assets/xuyenviet2026/day6_nhatle.jpg)
 
-### Ngày 7: Đồng Hới, Quảng Bình -> Vinh, Nghệ An.
-- Quảng đường: 239KM.
+### Ngày 7: Đồng Hới, Quảng Bình -> Hà Tĩnh -> Vinh, Nghệ An.
+Quảng đường: 239KM. Cao tốc, đi rất nhàn, ghé qua thành phố Hà Tình vừa là ăn trưa, vừa là muốn mua kẹo Cu-Đơ đúng gốc của nó.
+Kế hoạch lúc đầu về nhà, Yên Thành, nhưng trong lúc mình đi thì các cụ vào đông y châm cứu nên nhà mình nghỉ ở Vinh. Đưa 2 thằng vào chơi
+với ông bà, với đưa các cụ đi lượn Vinh và ăn tối luôn.  
+![chame](/assets/xuyenviet2026/day7_chame.jpg)
+
 - 10h00, xuất phát, mua bánh bột lọc làm quà :).
 - 12h30, ghé qua Hà Tĩnh ăn trưa, mua kẹo Cu-Đơ Thanh Nga (cửa hàng làm Cu-Đơ 30 năm, ăn vừa miệng, đỡ ngọt hơn Cu-Đơ ông bà Thư Viện).
-- 15h30, đến Vinh, kế hoạch lúc đầu về nhà, Yên Thành, nhưng trong lúc mình đi thì các cụ vào đông y châm cứu nên nhà mình nghỉ ở Vinh,
-vào đưa các cha mẹ đi ăn tối luôn.
+- 15h30, đến Vinh, vỗ chỗ bố mẹ đang nằm châm cứu đông y.
 - 17h00, đưa cha mẹ đi ăn tối, sau đó quay lại viện.
 - 21h00, check-in khách sạn Thanh An 2, kiểu khách sạn đầu những năm 2000 :)).
 
 ### Ngày 8: Vinh, Nghệ An -> Hà Nội.
-- Quãng đường: 319KM.
+Quãng đường: 319KM. Đã quen thuộc và đi nhiều lần, đợt này chỗ Cao Bồ - Mai Sơn đang sửa nên đi có phần hơi chậm hơn bình thường.  
 - 8h00, Ăn sáng ở Vinh với 2 đứa em.
 - Ghé qua viện chào các phụ huynh và đi thẳng luôn ra Hà Nôi, đoạn đường này thì mình quá quen thuộc, ghé trạm nghỉ Xuân Khiêm ăn trưa.
 - 15h30, về đến nhà, kết thúc chuyến đi bán xuyên Việt lần đầu, đạt được tất cả các mục tiêu ban đầu đề ra.
