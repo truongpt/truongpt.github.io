@@ -1,11 +1,11 @@
 # Du lịch bán xuyên Việt lần đầu.
 
 ## Tóm tắt chuyến đi
-- Đường đi và xăng dầu.
+- Chuyến đi từ Hà Nội đến điểm xa nhất là Thánh địa Mỹ Sơn, và quay lại.
   - Tổng số 1783KM.
-  - Tròn 3 triệu tiền dầu xe. Trung bình đợt này 25.5k/L -> 117L dầu.
+  - Tính tròn 3 triệu tiền dầu xe. Trung bình đợt này 25.5k/L -> 117L dầu.
   - 6.6L/100KM.
-  - Phí đường cao tốc: 1,088,341 -> 1M.
+  - Phí đường cao tốc, tính tròn 1 triệu.
 - Ngày 1: Hà Nội -> Thiên Cầm, Hà Tĩnh.
 - Ngày 2: Thiên Cầm -> Kỳ Xuân, Hà Tĩnh -> Đồng Hới, Quảng Bình.
 - Ngày 3: Đồng Hới, Quảng Bình -> Đà Nẵng.
@@ -159,9 +159,11 @@ một lúc.
 - 12h30, ghé qua Hà Tĩnh ăn trưa, mua kẹo Cu-Đơ Thanh Nga (cửa hàng làm Cu-Đơ 30 năm, ăn vừa miệng, đỡ ngọt hơn Cu-Đơ ông bà Thư Viện).
 - 15h30, đến Vinh, kế hoạch lúc đầu về nhà, Yên Thành, nhưng trong lúc mình đi thì các cụ vào đông y châm cứu nên nhà mình nghỉ ở Vinh,
 vào đưa các cha mẹ đi ăn tối luôn.
+- 17h00, đưa cha mẹ đi ăn tối, sau đó quay lại viện.
+- 21h00, check-in khách sạn Thanh An 2, kiểu khách sạn đầu những năm 2000 :)).
 
 ### Ngày 8: Vinh, Nghệ An -> Hà Nội.
--  Quãng đường: 319KM.
+- Quãng đường: 319KM.
 - 8h00, Ăn sáng ở Vinh với 2 đứa em.
 - Ghé qua viện chào các phụ huynh và đi thẳng luôn ra Hà Nôi, đoạn đường này thì mình quá quen thuộc, ghé trạm nghỉ Xuân Khiêm ăn trưa.
 - 15h30, về đến nhà, kết thúc chuyến đi bán xuyên Việt lần đầu, đạt được tất cả các mục tiêu ban đầu đề ra.
