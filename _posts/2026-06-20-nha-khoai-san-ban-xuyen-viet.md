@@ -148,7 +148,11 @@ nên đi cũng khá tự tin.
 gọi món khác.
 
 # Ngày 6: Huế -> Đồng Hới, Quảng Bình.
-Quãng đường: 188KM. Sáng sớm cả nhà dậy sớm để thăm quan đại nội Huế, vì thời tiết rất nóng.
+Quãng đường: 188KM. Sáng sớm cả nhà dậy sớm để thăm quan đại nội Huế, vì thời tiết rất nóng. Không lưu lại Huế lâu
+để có thể cảm nhận hết cái nét Huế, tuy nhiên tiếp xúc với chị chủ Homestay, cô bán nước mía, cô bán mè-xửng, hay
+thằng ku pha caffe, cảm thấy được cách ăn nói của họ rất nhẹ nhàng, dạ thưa, đúng là rất Huế. Lần này cũng thấy có chút
+thay đổi, nhưng không nhiều, theo mình nghĩ Huế có tiềm năng du lịch hơn nhiều với những gì đang được khai thác. Huế
+vẫn có chút gì đó hơi buồn ...  
 - 6h30, cả nhà thăm quan đại nội huế, tranh thủ mua sắm quà cáp.  
 ![dainoi_1](/assets/xuyenviet2026/day6_dainoi_1.jpg)
 
