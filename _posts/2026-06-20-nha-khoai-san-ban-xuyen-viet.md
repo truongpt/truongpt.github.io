@@ -1,23 +1,26 @@
 # Du lịch bán xuyên Việt lần đầu.
+
+## Tóm tắt chuyến đi.
 - Tổng số km:
-
-## Mục lục
 - Ngày 1: Hà Nội -> Thiên Cầm, Hà Tĩnh.
-- Ngày 2: Thiên Cầm -> Kỳ Xuân, Hà Tĩnh -> Nhật Lệ, Quảng Bình.
-- Ngày 3: Nhật Lệ, Quảng Bình -> Mỹ Khê, Đà Nẵng.
+- Ngày 2: Thiên Cầm -> Kỳ Xuân, Hà Tĩnh -> Đồng Hới, Quảng Bình.
+- Ngày 3: Đồng Hới, Quảng Bình -> Đà Nẵng.
 - Ngày 4: Bà Nà, Đà Nẵng.
-- Ngày 5: Đà Nẵng -> Huế.
+- Ngày 5: Đà Nẵng -> Thánh địa Mỹ Sơn -> Huế.
 - Ngày 6: Huế -> Đồng Hới, Quảng Bình.
+- Ngày 7: Đồng Hới, Quảng Bình -> Vinh, Nghệ An.
+- Ngày 8: Vinh, Nghệ An -> Hà Nội.
 
-## Ngày 1: Hà Nội -> Thiên Cầm, Hà Tĩnh.
+## Vừa đi đường vừa ghi chép.
+### Ngày 1: Hà Nội -> Thiên Cầm, Hà Tĩnh.
 - Quãng đường: 384KM, [clip](https://www.youtube.com/watch?v=tLHORgngMnM)
-- 5h30 Xuất phát, hơi muộn hơn chút theo dự định, nên vành đai 3 có hơi tắc nhẹ, dù sao cũng
+- 5h30, Xuất phát, hơi muộn hơn chút theo dự định, nên vành đai 3 có hơi tắc nhẹ, dù sao cũng
 dễ thở hơn rất nhiều so với ngày thường. :).  
 ![xp](/assets/xuyenviet2026/day1_xp.jpg)
-- 7h15 dừng nghỉ và ăn sáng tại trạm nghỉ Tây Ninh Bình. Đây vốn dĩ là trạm dừng chân quên thuộc,
+- 7h15, dừng nghỉ và ăn sáng tại trạm nghỉ Tây Ninh Bình. Đây vốn dĩ là trạm dừng chân quên thuộc,
 mỗi lần về quê mình đều ghé qua đi vệ sinh ủng hộ, hôm nay ủng hộ cả ăn sáng, tuy nhiên phở thì
 ổn chứ mỳ thì hơi dở, do các vị tiết kiệm nên chơi mỳ đóng thùng ngày xưa thì phải.
-- 11h30 dừng nghỉ ở trạm nghỉ Diễn Châu, đây là lần đầu tiên mình dừng ở đây, vì mỗi lần về nhà
+- 11h30, dừng nghỉ ở trạm nghỉ Diễn Châu, đây là lần đầu tiên mình dừng ở đây, vì mỗi lần về nhà
 thì đến đây cũng gần nhà rồi nên chưa bao giờ nghé quá. Trạm đang xây dựng, nên cơ bản xuống tý
 cho thoải mái chân tay rồi đi tiếp.
 - Ăn trưa tại nhà hàng Hương-Vị-Biển, đồ ăn ngon, ổn, dĩ nhiên là không rẻ nhưng giá cũng hợp
@@ -33,12 +36,12 @@ mình với thằng thứ 2 bị ngứa, nên phải quay lên sớm.
 Biển một bên và vợ con tôi một bên.  
 ![didaobien](/assets/xuyenviet2026/day1_didaobien.jpg)
 
-## Ngày 2: Thiên Cầm -> Kỳ Xuân, Hà Tĩnh -> Nhật Lệ, Quảng Bình.
+### Ngày 2: Thiên Cầm -> Kỳ Xuân, Hà Tĩnh -> Đồng Hới, Quảng Bình.
 - Quảng đường: 135KM, [clip]()
 - Sáng sớm mình có làm tý chạy bộ 5km dọc bờ biển Thiên Cầm, toàn đường bê tông nên hơi đau chân.
 - Cả nhà ăn sáng bánh Canh cá Lóc ở quán Thiện Mập, do bên lễ tân gợi ý, khá là ngon. Tiện thể mình
 làm mấy bánh Cu-đơ, lần này vợ khen ngon, có vẻ mua tại lò có khác :D.
-- 9h00 cả nhà xuất phát, đi Kỳ Xuân. Lịch trình hôm nay không đi dài, mình cũng đi thong thả, theo con
+- 9h00, cả nhà xuất phát, đi Kỳ Xuân. Lịch trình hôm nay không đi dài, mình cũng đi thong thả, theo con
 đường dọc biển.
 - Biển Kỳ Xuân nhìn ngon lành hơn so với Thiên Cầm, sóng nhẹ, biển khá xanh. Thêm mấy hòn đá nên phù 
 hợp với các thanh niên thích sống ảo. Lúc đầu chỉ tính ghé qua, nhưng mấy ông con đòi tắm nên ở lại lâu
@@ -49,8 +52,8 @@ ngọt cũng khá phiền phức. Tầm gần 11h xuất phát đi Nhật Lệ, 
 ![kyxuan](/assets/xuyenviet2026/day2_kyxuan_1.jpg)
 
 - Ăn trưa ở đường tránh Kỳ Anh, khá ngon, nhưng quên dặn nên đồ nấu khá cay, vợ con không ăn được nhiều.
-- 3h00 đến Nhật Lệ, nghỉ ở khách sạn Nam Long Plus, tuy không mới, nhưng sạch sẽ, phòng ốc rộng rãi.
-- 5h30 rủ nhau đi ra biển Bảo Ninh, sóng biển khá lớn, nên chủ yếu chơi cưỡi sóng, dịch vụ tắm táp, gửi xe
+- 3h00, đến Nhật Lệ, nghỉ ở khách sạn Nam Long Plus, tuy không mới, nhưng sạch sẽ, phòng ốc rộng rãi.
+- 5h30, rủ nhau đi ra biển Bảo Ninh, sóng biển khá lớn, nên chủ yếu chơi cưỡi sóng, dịch vụ tắm táp, gửi xe
 khá ổn.
 - 8h30 mới kịp đi ăn tối, tính đến quán cơm bao cấp, nhưng đến đó thấy khá đông, có vẻ khá nổi, nhưng cũng
 thấy 1 phần do bài trí quán nên khá nhiều thanh niên đến check-in. Đổi lại sang quán cơm Bếp Xưa, cũng ngon,
@@ -61,7 +64,7 @@ phục vụ nhanh.
 và hơi nóng.  
 ![square](/assets/xuyenviet2026/day2_qb_square.jpg)
 
-# Ngày 3: Nhật Lệ, Quảng Bình -> Mỹ Khê, Đà Nẵng.
+### Ngày 3: Đồng Hới, Quảng Bình -> Đà Nẵng.
 - Quãng đường: 291KM, [clip]()
 - Tranh thủ buổi sáng, đi dạo ở biển Nhật Lệ.  
 ![nhatle](/assets/xuyenviet2026/day3_qb_nhatle_1.jpg)
@@ -82,7 +85,7 @@ phép, thêm việc giặt gũ, sấy quần áo miễn phí.
 - Hôm nay ngồi xe nhiều, nên cơm xong, ngồi thêm chút caffe, lên kế hoạch cụ thể 2 ngày ở Đà Nẵng, 2 thằng con mải
 trêu chọc nhau nên cơ bản vợ chồng phải tự quyết hết :D.
 
-# Ngày 4: Bà Nà, Đà Nẵng.
+### Ngày 4: Bà Nà, Đà Nẵng.
 - Quảng đường: 56KM.
 - 5h30, 2 đứa ra ngắm mặt trời mọc ở bãi biển Đà Nẵng, sau đó mình tranh thủ chạy bộ đến thăm nhà bà chị cách đó 5KM.  
 ![morning](/assets/xuyenviet2026/day4_morning.jpg)
@@ -103,7 +106,7 @@ dựng ở đỉnh Bà Nà đã thay đổi rất nhiều, các công trình the
 
 - 19h00, về đến nhà, ăn tối cạnh khách sạn, sau đó cũng tranh thủ đi dạo, dẫm cát biển chút.
 
-# Ngày 5: Đà Nẵng -> Huế.
+### Ngày 5: Đà Nẵng -> Thánh địa Mỹ Sơn -> Huế.
 - Quãng đường: 171KM.
 - 7h30, cả nhà ra bãi biển Đà Năng đi bơi, tính là chèo thuyền Sup, nhưng bãi biển này không có. Bữa sáng
 vẫn mỳ Quảng, do thằng con thích nên cả nhà chiều nó.  
@@ -146,4 +149,16 @@ một lúc.
 - Ăn tối ở bãi biển Nhật Lệ.  
 ![nhatle](/assets/xuyenviet2026/day6_nhatle.jpg)
 
+### Ngày 7: Đồng Hới, Quảng Bình -> Vinh, Nghệ An.
+- Quảng đường: 239KM.
+- 10h00, xuất phát, mua bánh bột lọc làm quà :).
+- 12h30, ghé qua Hà Tĩnh ăn trưa, mua kẹo Cu-Đơ Thanh Nga (cửa hàng làm Cu-Đơ 30 năm, ăn vừa miệng, đỡ ngọt hơn Cu-Đơ ông bà Thư Viện).
+- 15h30, đến Vinh, kế hoạch lúc đầu về nhà, Yên Thành, nhưng trong lúc mình đi thì các cụ vào đông y châm cứu nên nhà mình nghỉ ở Vinh,
+vào đưa các cha mẹ đi ăn tối luôn.
+
+### Ngày 8: Vinh, Nghệ An -> Hà Nội.
+-  Quãng đường: 319KM.
+- 8h00, Ăn sáng ở Vinh với 2 đứa em.
+- Ghé qua viện chào các phụ huynh và đi thẳng luôn ra Hà Nôi, đoạn đường này thì mình quá quen thuộc, ghé trạm nghỉ Xuân Kiêm ăn trưa.
+- 15h30, về đến nhà, kết thúc chuyến đi bán xuyên Việt lần đầu, đạt được tất cả các mục tiêu ban đầu đề ra.
 
