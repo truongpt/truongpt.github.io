@@ -1,6 +1,7 @@
 # Du lịch bán xuyên Việt lần đầu.
-
 ## Tóm tắt chuyến đi
+- [Plan](https://github.com/truongpt/truongpt.github.io/blob/master/assets/xuyenviet2026/plan.png).
+- [Những thứ cần chuẩn bị](https://github.com/truongpt/truongpt.github.io/blob/master/assets/xuyenviet2026/checklist.png).
 - Chuyến đi từ Hà Nội đến điểm xa nhất là Thánh địa Mỹ Sơn, và quay lại.
   - Tổng số 1783KM.
   - Tính tròn 3 triệu tiền dầu xe. Trung bình đợt này 25.5k/L -> 117L dầu.
