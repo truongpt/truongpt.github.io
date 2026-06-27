@@ -20,8 +20,8 @@
 Quãng đường: 384KM. Háo hức, vác toàn bộ đồ lên xe từ tối hôm trước đó, sáng sớm giục bọn
 nhỏ dậy là xuất phát luôn. Cao tốc đã thông đường qua Hà Tĩnh nên đi khá thuận lợi, đi thẳng
 một mạch là đến Thiên Cầm. Biển Thiên Cầm không có gì quá đặc sắc, được trải nghiệm ngứa do
-sửa. Ban đêm dọc bờ biển có một khu vui chơi, ban đêm sáng đèn, nhạc nhẽo, nhà mình không hợp
-nên buổi tối chỉ đi dạo biển. Đồ ăn ngon.  
+sứa, và cũng lần đầu tiên cầm con sứa trên tay. Ban đêm dọc bờ biển có một khu vui chơi, 
+ban đêm sáng đèn, nhạc nhẽo, nhà mình không hợp nên buổi tối chỉ đi dạo biển. Đồ ăn ngon.  
 - 5h30, Xuất phát, hơi muộn hơn chút theo dự định, nên vành đai 3 có hơi tắc nhẹ, dù sao cũng
 dễ thở hơn rất nhiều so với ngày thường. :).  
 ![xp](/assets/xuyenviet2026/day1_xp.jpg)
@@ -45,7 +45,8 @@ Biển một bên và vợ con tôi một bên.
 ![didaobien](/assets/xuyenviet2026/day1_didaobien.jpg)
 
 ### Ngày 2: Thiên Cầm -> Kỳ Xuân, Hà Tĩnh -> Đồng Hới, Quảng Bình.
-- Quảng đường: 135KM.
+Quảng đường: 135KM. Ngày hôm nay đi chủ động đi con đường ven biển, không lên cao tốc sớm. Biển Kỳ
+Xuân phải nói khung cảnh rất ấn tượng, thậm chí có thể nói cảnh biển đẹp nhất cả chuyến đi.  
 - Sáng sớm mình có làm tý chạy bộ 5km dọc bờ biển Thiên Cầm, toàn đường bê tông nên hơi đau chân.
 - Cả nhà ăn sáng bánh Canh cá Lóc ở quán Thiện Mập, do bên lễ tân gợi ý, khá là ngon. Tiện thể mình
 làm mấy bánh Cu-đơ, lần này vợ khen ngon, có vẻ mua tại lò có khác :D.
