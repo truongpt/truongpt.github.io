@@ -120,7 +120,10 @@ dựng ở đỉnh Bà Nà đã thay đổi rất nhiều, các công trình the
 - 19h00, về đến nhà, ăn tối cạnh khách sạn, sau đó cũng tranh thủ đi dạo, dẫm cát biển chút.
 
 ### Ngày 5: Đà Nẵng -> Thánh địa Mỹ Sơn -> Huế.
-- Quãng đường: 171KM.
+Quãng đường: 171KM. Mỹ Sơn cách chỗ ở ở Đà Nẵng chưa đến 50KM, nhưng đi hơn 1h30, kiểu đường ngày xưa, vòng vo
+quanh núi, tuy nhiên đường đẹp, cảnh cũng đẹp. Lúc đầu mình cứ nghĩ thánh địa Mỹ Sơn là nguyên những gì còn lại,
+nhưng đến mới hiểu nó đã được trùng tu rất nhiều, có chỗ chưa được trung tu thì đúng chỉ như đống đổ nát. Trải nghiệm
+văn hóa Champa qua điệu múa Apsara, các nữ công vừa bước ra làm mình há hốc mồm quay sang vợ, hỏi "Anh có được xem không?" :)).  
 - 7h30, cả nhà ra bãi biển Đà Năng đi bơi, tính là chèo thuyền Sup, nhưng bãi biển này không có. Bữa sáng
 vẫn mỳ Quảng, do thằng con thích nên cả nhà chiều nó.  
 ![myquang](/assets/xuyenviet2026/day5_myquang.jpg)
@@ -145,7 +148,7 @@ nên đi cũng khá tự tin.
 gọi món khác.
 
 # Ngày 6: Huế -> Đồng Hới, Quảng Bình.
-- Quãng đường: 188KM.
+Quãng đường: 188KM. Sáng sớm cả nhà dậy sớm để thăm quan đại nội Huế, vì thời tiết rất nóng.
 - 6h30, cả nhà thăm quan đại nội huế, tranh thủ mua sắm quà cáp.  
 ![dainoi_1](/assets/xuyenviet2026/day6_dainoi_1.jpg)
 
