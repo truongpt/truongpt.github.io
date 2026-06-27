@@ -74,7 +74,10 @@ và hơi nóng.
 ![square](/assets/xuyenviet2026/day2_qb_square.jpg)
 
 ### Ngày 3: Đồng Hới, Quảng Bình -> Đà Nẵng.
-- Quãng đường: 291KM, [clip]()
+Quãng đường: 291KM. Thực hiện được lời hứa với bản thân, đưa vợ con đến ngắm cánh đồng điện gió. Trải nghiệm
+đoạn cao tốc Vạn Ninh - Cam Lộ, một mạch 90KM/h. Bò trên Cam Lộ - La Sơn 90KM với tốc độ 50KM/h, chỉ không hiểu
+tại sao xe tải vẫn phóng nhanh được. Đà Nẵng vẫn ấn tượng như xưa, bờ biển dài, không khí trong lành, đường lớn,
+cơ sở hạ tầng thì khỏi bàn.  
 - Tranh thủ buổi sáng, đi dạo ở biển Nhật Lệ.  
 ![nhatle](/assets/xuyenviet2026/day3_qb_nhatle_1.jpg)
 
@@ -95,7 +98,8 @@ phép, thêm việc giặt gũ, sấy quần áo miễn phí.
 trêu chọc nhau nên cơ bản vợ chồng phải tự quyết hết :D.
 
 ### Ngày 4: Bà Nà, Đà Nẵng.
-- Quảng đường: 56KM.
+Quảng đường: 56KM. Bà Nà cách không xa chỗ ở, nhưng đường không đi nhanh được, đường cũ ngày xưa quanh co theo núi, tuy
+nhiên đường đẹp, khung cảnh đẹp. Bà Nà cũng nhiều thứ thay đổi so với lần trước mình đi, cũng đã 13 năm rồi.  
 - 5h30, 2 đứa ra ngắm mặt trời mọc ở bãi biển Đà Nẵng, sau đó mình tranh thủ chạy bộ đến thăm nhà bà chị cách đó 5KM.  
 ![morning](/assets/xuyenviet2026/day4_morning.jpg)
 
