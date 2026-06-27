@@ -163,6 +163,6 @@ vào đưa các cha mẹ đi ăn tối luôn.
 ### Ngày 8: Vinh, Nghệ An -> Hà Nội.
 -  Quãng đường: 319KM.
 - 8h00, Ăn sáng ở Vinh với 2 đứa em.
-- Ghé qua viện chào các phụ huynh và đi thẳng luôn ra Hà Nôi, đoạn đường này thì mình quá quen thuộc, ghé trạm nghỉ Xuân Kiêm ăn trưa.
+- Ghé qua viện chào các phụ huynh và đi thẳng luôn ra Hà Nôi, đoạn đường này thì mình quá quen thuộc, ghé trạm nghỉ Xuân Khiêm ăn trưa.
 - 15h30, về đến nhà, kết thúc chuyến đi bán xuyên Việt lần đầu, đạt được tất cả các mục tiêu ban đầu đề ra.
 
