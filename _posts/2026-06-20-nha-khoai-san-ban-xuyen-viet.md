@@ -17,7 +17,7 @@
 - Ngày 8: Vinh, Nghệ An -> Hà Nội.
 
 ## Vừa đi đường vừa ghi chép.
-### Ngày 1: Hà Nội -> Thiên Cầm, Hà Tĩnh.
+### Ngày 1: [Hà Nội -> Thiên Cầm, Hà Tĩnh.](https://www.youtube.com/watch?v=tLHORgngMnM).
 Quãng đường: 384KM. Háo hức, vác toàn bộ đồ lên xe từ tối hôm trước đó, sáng sớm giục bọn
 nhỏ dậy là xuất phát luôn. Cao tốc đã thông đường qua Hà Tĩnh nên đi khá thuận lợi, đi thẳng
 một mạch là đến Thiên Cầm. Biển Thiên Cầm không có gì quá đặc sắc, được trải nghiệm ngứa do
@@ -45,7 +45,7 @@ mình với thằng thứ 2 bị ngứa, nên phải quay lên sớm.
 Biển một bên và vợ con tôi một bên.  
 ![didaobien](/assets/xuyenviet2026/day1_didaobien.jpg)
 
-### Ngày 2: Thiên Cầm -> Kỳ Xuân, Hà Tĩnh -> Đồng Hới, Quảng Bình.
+### Ngày 2: [Thiên Cầm -> Kỳ Xuân, Hà Tĩnh -> Đồng Hới, Quảng Bình.](https://www.youtube.com/watch?v=8FCuuMPyRzM)
 Quảng đường: 135KM. Ngày hôm nay đi chủ động đi con đường ven biển, không lên cao tốc sớm. Biển Kỳ
 Xuân phải nói khung cảnh rất ấn tượng, thậm chí có thể nói cảnh biển đẹp nhất cả chuyến đi.  
 - Sáng sớm mình có làm tý chạy bộ 5km dọc bờ biển Thiên Cầm, toàn đường bê tông nên hơi đau chân.
