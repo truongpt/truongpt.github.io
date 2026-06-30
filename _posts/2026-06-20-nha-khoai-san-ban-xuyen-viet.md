@@ -1,7 +1,6 @@
 # Du lịch bán xuyên Việt lần đầu.
 ## Tóm tắt chuyến đi
-- [Plan](https://github.com/truongpt/truongpt.github.io/blob/master/assets/xuyenviet2026/plan.png).
-- [Những thứ cần chuẩn bị](https://github.com/truongpt/truongpt.github.io/blob/master/assets/xuyenviet2026/checklist.png).
+- [Kế hoạch](https://github.com/truongpt/truongpt.github.io/blob/master/assets/xuyenviet2026/plan.png) và [những thứ cần chuẩn bị](https://github.com/truongpt/truongpt.github.io/blob/master/assets/xuyenviet2026/checklist.png).
 - Chuyến đi từ Hà Nội đến điểm xa nhất là Thánh địa Mỹ Sơn, và quay lại.
   - Tổng số 1783KM.
   - Tính tròn 3 triệu tiền dầu xe. Trung bình đợt này 25.5k/L -> 117L dầu.
@@ -17,7 +16,7 @@
 - Ngày 8: Vinh, Nghệ An -> Hà Nội.
 
 ## Vừa đi đường vừa ghi chép.
-### Ngày 1: [Hà Nội -> Thiên Cầm, Hà Tĩnh.](https://www.youtube.com/watch?v=tLHORgngMnM).
+### Ngày 1: [Hà Nội -> Thiên Cầm, Hà Tĩnh.](https://www.youtube.com/watch?v=tLHORgngMnM)
 Quãng đường: 384KM. Háo hức, vác toàn bộ đồ lên xe từ tối hôm trước đó, sáng sớm giục bọn
 nhỏ dậy là xuất phát luôn. Cao tốc đã thông đường qua Hà Tĩnh nên đi khá thuận lợi, đi thẳng
 một mạch là đến Thiên Cầm. Biển Thiên Cầm không có gì quá đặc sắc, được trải nghiệm ngứa do
@@ -164,7 +163,7 @@ vẫn có chút gì đó hơi buồn ...
 - 11h00, xuất phát đi Đồng Hới, rút kinh nghiệm lần đi vào, lần này tránh cao tốc. Trước đi cũng lòng vòng qua mấy điểm
 Quốc Học Huế, cầu Trường Tiền. Đi quốc lộ 1A, nên đoạn qua Quảng Trị đi qua cầu Hiền Lương, mình dừng xe xuống đứng nhìn
 một lúc.
-- Ăn trưa dọc đường ở Cam Lộ, Quảng Trị, được quả hít gió Lào "mát mẻ".
+- Ăn trưa dọc đường ở Cam Lộ, Quảng Trị, quán nấu ngon, nhưng được quả hít gió Lào "mát mẻ".
 - 15h00, check-in Misa hotel, khách sạn mới 3 tháng, sạch sẽ, phòng ốc rộng rãi, cách biển Nhật Lệ 3KM.
 - 17h45, cả nhà kéo nhau ra biển Nhật Lệ, hơi phiền phức chỗ gửi xe.
 - Ăn tối ở bãi biển Nhật Lệ.  
