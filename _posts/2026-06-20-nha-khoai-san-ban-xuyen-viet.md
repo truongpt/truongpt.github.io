@@ -73,7 +73,7 @@ phục vụ nhanh.
 và hơi nóng.  
 ![square](/assets/xuyenviet2026/day2_qb_square.jpg)
 
-### Ngày 3: Đồng Hới, Quảng Bình -> Đà Nẵng.
+### Ngày 3: [Đồng Hới, Quảng Bình -> Đà Nẵng.](https://youtu.be/cBc6ao3s13o)
 Quãng đường: 291KM. Thực hiện được lời hứa với bản thân, đưa vợ con đến ngắm cánh đồng điện gió. Trải nghiệm
 đoạn cao tốc Vạn Ninh - Cam Lộ, một mạch 90KM/h. Bò trên Cam Lộ - La Sơn 90KM với tốc độ 50KM/h, chỉ không hiểu
 tại sao xe tải vẫn phóng nhanh được. Đà Nẵng vẫn ấn tượng như xưa, bờ biển dài, không khí trong lành, đường lớn,
