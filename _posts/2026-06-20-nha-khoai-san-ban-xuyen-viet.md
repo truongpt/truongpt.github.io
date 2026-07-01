@@ -81,8 +81,8 @@ cơ sở hạ tầng thì khỏi bàn.
 - Tranh thủ buổi sáng, đi dạo ở biển Nhật Lệ.  
 ![nhatle](/assets/xuyenviet2026/day3_qb_nhatle_1.jpg)
 
-- 10h00, xuất phát, ghé qua cánh đồng điện gió, nơi mà cách đây 2 năm mình đi qua lúc vào Đông Hà chạy Tiền
-Phong Marathon, mình đã tự hứa có ngày sẽ mang vợ con qua ngắm cảnh ở đây.  
+- 10h00, xuất phát, ghé qua cánh đồng điện gió, nơi mà cách đây 2 năm mình đi qua lúc vào Đông Hà chạy [Tiền
+Phong Marathon](https://truongpt.github.io/2025/04/04/tpm2025.html), mình đã tự hứa có ngày sẽ mang vợ con qua ngắm cảnh ở đây.  
 ![nhatle](/assets/xuyenviet2026/day3_diengio_1.jpg)
 
 ![nhatle](/assets/xuyenviet2026/day3_diengio_2.jpg)
@@ -97,7 +97,7 @@ phép, thêm việc giặt gũ, sấy quần áo miễn phí.
 - Hôm nay ngồi xe nhiều, nên cơm xong, ngồi thêm chút caffe, lên kế hoạch cụ thể 2 ngày ở Đà Nẵng, 2 thằng con mải
 trêu chọc nhau nên cơ bản vợ chồng phải tự quyết hết :D.
 
-### Ngày 4: Bà Nà, Đà Nẵng.
+### Ngày 4: [Bà Nà, Đà Nẵng.](https://youtu.be/4t431IToNh4)
 Quảng đường: 56KM. Bà Nà cách không xa chỗ ở, nhưng đường không đi nhanh được, đường cũ ngày xưa quanh co theo núi, tuy
 nhiên đường đẹp, khung cảnh đẹp. Bà Nà cũng nhiều thứ thay đổi so với lần trước mình đi, cũng đã 13 năm rồi.  
 - 5h30, 2 đứa ra ngắm mặt trời mọc ở bãi biển Đà Nẵng, sau đó mình tranh thủ chạy bộ đến thăm nhà bà chị cách đó 5KM.  
