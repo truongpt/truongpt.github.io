@@ -119,7 +119,7 @@ dựng ở đỉnh Bà Nà đã thay đổi rất nhiều, các công trình the
 
 - 19h00, về đến nhà, ăn tối cạnh khách sạn, sau đó cũng tranh thủ đi dạo, dẫm cát biển chút.
 
-### Ngày 5: Đà Nẵng -> Thánh địa Mỹ Sơn -> Huế.
+### Ngày 5: [Đà Nẵng -> Thánh địa Mỹ Sơn -> Huế.](https://youtu.be/wF1jYQG_CqM)
 Quãng đường: 171KM, đi quốc lộ 1A. Mỹ Sơn cách chỗ ở ở Đà Nẵng chưa đến 50KM, nhưng đi hơn 1h30, kiểu đường ngày xưa, vòng vo
 quanh núi, tuy nhiên đường đẹp, cảnh cũng đẹp. Lúc đầu mình cứ nghĩ thánh địa Mỹ Sơn là nguyên những gì còn lại,
 nhưng đến mới hiểu nó đã được trùng tu rất nhiều, có chỗ chưa được trung tu thì đúng chỉ như đống đổ nát. Trải nghiệm
