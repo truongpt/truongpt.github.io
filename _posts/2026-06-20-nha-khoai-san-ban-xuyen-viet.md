@@ -147,7 +147,7 @@ nên đi cũng khá tự tin.
 - Buổi tối cả nhà đi ăn bánh đa xúc hến, nhưng nó cay quá, đúng là Huế, thành ra mình phải ăn một mình, vợ con phải 
 gọi món khác.
 
-# Ngày 6: Huế -> Đồng Hới, Quảng Bình.
+# Ngày 6: [Huế -> Đồng Hới, Quảng Bình.](https://youtu.be/jljryzRdm3w)
 Quãng đường: 188KM, đi quốc lộ 1A. Sáng sớm cả nhà dậy sớm để thăm quan đại nội Huế, vì thời tiết rất nóng. Không lưu lại Huế lâu
 để có thể cảm nhận hết cái nét Huế, tuy nhiên tiếp xúc với chị chủ Homestay, cô bán nước mía, cô bán mè-xửng, hay
 thằng ku pha caffe, cảm thấy được cách ăn nói của họ rất nhẹ nhàng, dạ thưa, đúng là rất Huế. Lần này cũng thấy có chút
