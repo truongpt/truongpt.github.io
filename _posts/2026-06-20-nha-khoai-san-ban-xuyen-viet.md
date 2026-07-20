@@ -169,7 +169,7 @@ một lúc.
 - Ăn tối ở bãi biển Nhật Lệ.  
 ![nhatle](/assets/xuyenviet2026/day6_nhatle.jpg)
 
-### Ngày 7: Đồng Hới, Quảng Bình -> Hà Tĩnh -> Vinh, Nghệ An.
+### Ngày 7: [Đồng Hới, Quảng Bình -> Hà Tĩnh -> Vinh, Nghệ An.](https://youtu.be/XrY3KEQy9sA)
 Quảng đường: 239KM. Cao tốc, đi rất nhàn, ghé qua thành phố Hà Tình vừa là ăn trưa, vừa là muốn mua kẹo Cu-Đơ đúng gốc của nó.
 Kế hoạch lúc đầu về nhà, Yên Thành, nhưng trong lúc mình đi thì các cụ vào đông y châm cứu nên nhà mình nghỉ ở Vinh. Đưa 2 thằng vào chơi
 với ông bà, với đưa các cụ đi lượn Vinh và ăn tối luôn.  
